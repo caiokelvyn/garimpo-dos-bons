@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Produtos</title>
+    <link rel="stylesheet" href="gerador.css">
+</head>
+<body>
+
+<header>
+    <h1>🛒 Gerador de Produtos</h1>
+
+    <div class="acoes-header">
+
+        <button id="btnExportar">
+            Exportar produtos.json
+        </button>
+
+        <label class="btnImportar">
+            Importar produtos.json
+
+            <input
+                type="file"
+                id="inputImportar"
+                accept=".json"
+                hidden>
+
+        </label>
+
+    </div>
+
+</header>
+
+<div class="container">
+
+    <aside class="formulario">
+
+        <h2>Novo Produto</h2>
+
+        <input
+            type="text"
+            id="nome"
+            placeholder="Nome do produto">
+
+        <input
+            type="number"
+            id="preco"
+            placeholder="Preço">
+
+        <input
+            type="text"
+            id="imagem"
+            placeholder="URL da imagem">
+
+        <input
+            type="text"
+            id="link"
+            placeholder="Link do Mercado Livre">
+
+        <select id="categoria">
+
+            <option value="automotivo">Automotivo</option>
+            <option value="ferramentas">Ferramentas</option>
+            <option value="casa">Casa</option>
+            <option value="sapatos">Sapatos</option>
+            <option value="perfumes">Perfumes</option>
+            <option value="maquiagens">Maquiagens</option>
+            <option value="cabelo">Cabelo</option>
+            <option value="unha">Unha</option>
+            <option value="skincare">Skincare</option>
+            <option value="hidratantes">Hidratantes</option>
+
+        </select>
+
+        <button id="btnAdicionar">
+            Adicionar Produto
+        </button>
+
+    </aside>
+
+    <main>
+
+        <input
+            type="text"
+            id="buscar"
+            placeholder="🔍 Buscar produto">
+
+        <div id="listaProdutos"></div>
+
+    </main>
+
+</div>
+
+<script src="gerador.js"></script>
+
+</body>
+</html>

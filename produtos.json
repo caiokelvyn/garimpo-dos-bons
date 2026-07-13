@@ -1,0 +1,2278 @@
+{
+    "automotivo": [
+        {
+            "nome": "Verniz De Motor 1.5L Líquido Vonixx Protege E Renova Superfícies",
+            "preco": "95.55",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_985591-MLA99341877250_112025-F.webp",
+            "link": "https://meli.la/2kZGGHJ"
+        },
+        {
+            "nome": "Removedor De Piche E Cola Para Carro Vonixx Strike 500ml",
+            "preco": "56.15",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_802876-MLA99381833792_112025-F.webp",
+            "link": "https://meli.la/2ptEeNw"
+        },
+        {
+            "nome": "Shampoo Automotivo Vonixx V-Mol 5L Limpeza Pesada e Biodegradável",
+            "preco": "119.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_693189-MLA99840910053_112025-F.webp",
+            "link": "https://meli.la/191UFEp"
+        },
+        {
+            "nome": "Shampoo Automotivo Auto90 - 10l - Limpeza Pesada Profissional",
+            "preco": "288.82",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_735129-MLB112137537974_062026-F-shampoo-automotivo-auto90-10l-limpeza-pesada-profissional.webp",
+            "link": "https://meli.la/2zd8RNi"
+        },
+        {
+            "nome": "V floc Shampoo Automotivo Neutro Concentrado 5L Vonixx",
+            "preco": "133.36",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_832737-MLA99818566483_112025-F.webp",
+            "link": "https://meli.la/268kt2N"
+        },
+        {
+            "nome": "Shampoo Automotivo Vonixx V-FLOC 1,5L + Toalha + Luva Microfibra",
+            "preco": "69.9",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_909167-MLA97355370571_112025-F.webp",
+            "link": "https://meli.la/1a8aVNH"
+        },
+        {
+            "nome": "Toalha De Microfibra Sem Costura 350gsm 40x60 Vonixx",
+            "preco": "17.84",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_927472-MLA99449982694_112025-F.webp",
+            "link": "https://meli.la/2STehB9"
+        },
+        {
+            "nome": "Par Luva Microfibra Lavagem Automotiva Carro Moto Detailer",
+            "preco": "19.38",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_659160-MLB107719309085_022026-F.webp",
+            "link": "https://meli.la/24nddqF"
+        },
+        {
+            "nome": "Luva Microfibra Chenille Detailer Para Lavagem Automotiva",
+            "preco": "21.11",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_720197-MLB111086327471_042026-F.webp",
+            "link": "https://meli.la/1A8cJmL"
+        },
+        {
+            "nome": "Kit 2 Aplicadores De Pneu Pretinho Vintex Anatômico",
+            "preco": "20.74",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_990312-MLB108946660317_032026-F.webp",
+            "link": "https://meli.la/1SAuL6E"
+        },
+        {
+            "nome": "Revox Vonixx Pretinho Selante Pneus 500ml Aplicador Kit",
+            "preco": "48.37",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_950327-MLB84728664428_052025-F.webp",
+            "link": "https://meli.la/1ybf4U6"
+        },
+        {
+            "nome": "Lubrificante V-Lub Vonixx Para Clay Bar 500ml Spray Para Carros",
+            "preco": "14.17",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_904637-MLA99413917164_112025-F.webp",
+            "link": "https://http2.mlstatic.com/D_NQ_NP_2X_904637-MLA99413917164_112025-F.webp"
+        },
+        {
+            "nome": "Polidor V40 Corte Refino Lustro Protecao 4 Em1 Vonixx 500ml",
+            "preco": "49.63",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_797144-MLB107258219682_032026-F-polidor-v40-corte-refino-lustro-protecao-4-em1-vonixx-500ml.webp",
+            "link": "https://meli.la/1syf7tf"
+        },
+        {
+            "nome": "Revelador De Hologramas Revelax Vonixx 500ml",
+            "preco": "29.72",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_609493-MLA99823415793_112025-F.webp",
+            "link": "https://meli.la/2W4tk5u"
+        },
+        {
+            "nome": "Extractus Limpador Ultra Concentrado 1,5l Vonixx",
+            "preco": "34.39",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_836653-MLA99624878256_122025-F.webp",
+            "link": "https://meli.la/1Znffk7"
+        },
+        {
+            "nome": "Sintra Pro Vonixx Limpador Painel Limpeza Interna 1,5l",
+            "preco": "37.19",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_902735-MLB106050486130_022026-F-sintra-pro-vonixx-limpador-painel-limpeza-interna-15l.webp",
+            "link": "https://meli.la/1irMRay"
+        },
+        {
+            "nome": "Kit Lavagem Automotiva V-floc Blend Sintra Intense Vonixx",
+            "preco": "180.93",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_620737-MLA101453641663_122025-F.webp",
+            "link": "https://meli.la/26V6BVx"
+        },
+        {
+            "nome": "Revelador De Hologramas Revelax Vonixx Ipa 500ml",
+            "preco": "39.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_639592-MLB79315776971_092024-F.webp",
+            "link": "https://meli.la/1z1Gm2i"
+        },
+        {
+            "nome": "Sintra Pro Limpeza Interna De Veiculos Vonixx 1,5l",
+            "preco": "35.04",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_624029-MLB48088668558_112021-F.webp",
+            "link": "https://meli.la/1gS25K7"
+        },
+        {
+            "nome": "Parafusadeira Furadeira Impacto Pfe20ev Maleta Kit Evald PFE-20EV Cor Amarelo Frequência 60 hertz",
+            "preco": "221.19",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_822557-MLA107797621075_022026-F.webp",
+            "link": "https://meli.la/2K4Mmo2"
+        },
+        {
+            "nome": "Tramontina 43800005 caixa para ferramentas sanfonada com 5 gavetas",
+            "preco": "124.37",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_943377-MLA96402113111_102025-F.webp",
+            "link": "https://meli.la/2xVLZrL"
+        },
+        {
+            "nome": "Jogo De Chave Biela 8 A 19 Mm Aço Especial 10 Pçs Tramontina",
+            "preco": "239.60",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_922129-MLA99459852990_112025-F.webp",
+            "link": "https://meli.la/2DyoXo4"
+        },
+        {
+            "nome": "Cuba Pia Gourmet Luxo Guerra Aço Inox + Torneira Flexivel Monocomando Bancada Cozinha 42x60cm Kit Completa 60 Cm 42cm Winda",
+            "preco": "330.65",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_634454-MLA90736158212_082025-F.webp",
+            "link": "https://meli.la/2Jf6461"
+        }
+    ],
+    "ferramentas": [
+        {
+            "nome": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Simake",
+            "preco": "119.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_641541-MLA111608975062_062026-F.webp",
+            "link": "https://meli.la/1mrmbrS"
+        },
+        {
+            "nome": "Kit Jogo De Soquete Chave Catraca 216 Pcs Aço Cr-v Vermelho",
+            "preco": "374.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_603262-MLB90701374357_082025-F.webp",
+            "link": "https://meli.la/23RHzbf"
+        },
+        {
+            "nome": "Kit 4 Em 1 Ferramentas 48v Íon Lítio Sem Fio Furadeira Parafusadeira Chave Impacto Martelete Esmerilhadeira 125mm Acessórios 2 Baterias Carregador Bivolt Maleta Profissional - Motor Brushless",
+            "preco": "699.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_938845-MLA106909853300_022026-F.webp",
+            "link": "https://meli.la/2qfFtLv"
+        },
+        {
+            "nome": "Kit Ferramentas Quicko 46 Peças Com Soquetes e Chaves Para Carro e Casa",
+            "preco": "27.15",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_987853-MLA109863820220_042026-F.webp",
+            "link": "https://meli.la/1FrD863"
+        },
+        {
+            "nome": "Caixa De Ferramentas Sanfonada Tramontina 7 Gavetas Azul",
+            "preco": "204.05",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_770998-MLA95699922734_102025-F.webp",
+            "link": "https://meli.la/2CQXyE8"
+        },
+        {
+            "nome": "Jogo De Chave Allen Longa 1,5 A 10mm Com 9 Peças - Gedore",
+            "preco": "72.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_883868-MLA96869266747_102025-F.webp",
+            "link": "https://meli.la/2cJK6gw"
+        },
+        {
+            "nome": "Jogo de Chave Combinada Mayle com 12 Peças de 6 a 22 mm",
+            "preco": "97.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_969067-MLA99499785570_112025-F.webp",
+            "link": "https://meli.la/2QEBNqW"
+        },
+        {
+            "nome": "Jogo De Chave Combinado Esquadro E De Catraca 14 Pcs 8-24mm",
+            "preco": "204.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_816633-MLB98152275513_112025-F.webp",
+            "link": "https://meli.la/22MGDoS"
+        },
+        {
+            "nome": "Jogo De Soquete 1/2 Pol Catraca Reversível 22 Peças Com Maleta Grz-22p Gorillaz",
+            "preco": "131.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_728336-MLA99897224619_112025-F.webp",
+            "link": "https://meli.la/2jPGviM"
+        },
+        {
+            "nome": "Jogo Kit De Soquetes Ferramentas Manuais Chave Catraca Reversível 1/2 Pol 8 A 32mm Cor Amarelo Bcs022 The Black Tools",
+            "preco": "151.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_952152-MLA100025553375_122025-F.webp",
+            "link": "https://meli.la/1ZBJRHg"
+        },
+        {
+            "nome": "Jogo De Ferramentas Soquetes Encaixe 1/4 E 1/2 Pol. Catraca Reversível Aço Crv 94 Peças Com Maleta Tkf94 The Black Tools",
+            "preco": "202.63",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_671666-MLA99870769883_112025-F.webp",
+            "link": "https://meli.la/1vQVuwE"
+        },
+        {
+            "nome": "Jogo De Chave Biela 8-19mm Crv 12 Pçs R01802012 Gedore Red",
+            "preco": "244.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_671666-MLA99870769883_112025-F.webp",
+            "link": "https://meli.la/2Xv3VXS"
+        },
+        {
+            "nome": "Caixa De Ferramenta Tática Grande Reforçada C/ Fecho Metasul Cor Verde/Bege",
+            "preco": "45.09",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_676315-MLA99623662820_122025-F.webp",
+            "link": "https://meli.la/15qSHpW"
+        },
+        {
+            "nome": "DeWalt DWAF2PH2IR3 ponta bit de 57 mm",
+            "preco": "24.40",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_930050-MLA99612155018_122025-F.webp",
+            "link": "https://meli.la/2Zmh5oJ"
+        },
+        {
+            "nome": "Kit 7 Ponta Bits Magnéticos Ph2 Antiderrapante 25 50 70 90mm",
+            "preco": "19.72",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_703276-MLA111927517056_062026-F.webp",
+            "link": "https://meli.la/1Fi8w5g"
+        }
+    ],
+    "casa": [
+        {
+            "nome": "Kit 2 Câmera Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D’Água - HW",
+            "preco": "179.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_901090-MLA99414404486_112025-F.webp",
+            "link": "https://meli.la/2pU1EVH"
+        },
+        {
+            "nome": "Kit 4 Câmera De Segurança Dome Wi-fi Ptz",
+            "preco": "425.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_974663-MLA102066778400_122025-F.webp",
+            "link": "https://meli.la/1mRHSsx"
+        },
+        {
+            "nome": "Mesa De Cabeceira Nicho Quarto Casal Solteiro Apoio De Cama",
+            "preco": "58.93",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_757986-MLB86875837398_072025-F-mesa-de-cabeceira-nicho-quarto-casal-solteiro-apoio-de-cama.webp",
+            "link": "https://meli.la/2wPYVPn"
+        },
+        {
+            "nome": "Cama Box Solteiro Colchão Gazin Maximus Molas Ensacadas 88x188x62cm Linho Grafite / Preto - Suporta até 120Kg por Pessoa",
+            "preco": "979.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_998330-MLA95732018008_102025-F.webp",
+            "link": "https://meli.la/1UJVTec"
+        },
+        {
+            "nome": "Cama Box Casal Colchão Gazin Molas Ensacadas Pillow Maximus Cinza e Preto 138x188x62cm",
+            "preco": "999.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_788186-MLA98408216876_112025-F.webp",
+            "link": "https://meli.la/19ncTHn"
+        },
+        {
+            "nome": "Mesa De Cabeceira Lateral Apoio Organizador De Quarto Retro Acabamento Brilhante Cor Cinza",
+            "preco": "66.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_608610-MLA109215362633_032026-F.webp",
+            "link": "https://meli.la/2NpX45g"
+        },
+        {
+            "nome": "Kit com 19 Utensílios de Cozinha em Silicone e Madeira Cor Preto - Ponte Lar Utilidades",
+            "preco": "78.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_701002-MLA109558276687_032026-F.webp",
+            "link": "https://meli.la/2rsGsoj"
+        },
+        {
+            "nome": "Armário de Cozinha Completa com Balcão 8 Portas Gaveta Com Vidro Nicho Organizador Ripado Carvalho Nature Cinza Grafite",
+            "preco": "488.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_961363-MLA100955574079_122025-F.webp",
+            "link": "https://meli.la/2zxkusj"
+        },
+        {
+            "nome": "Jogo De Panelas Induçao Antiaderente Cerâmica 10 Peças Ppg Pfoa Free Baunilha",
+            "preco": "409.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_896529-MLA98735006295_112025-F.webp",
+            "link": "https://meli.la/1q2o6KV"
+        },
+        {
+            "nome": "Kit 5 Utensílios De Bambu Cozinha Colher Espátula Antifungos",
+            "preco": "19.91",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_902883-MLB107569206645_022026-F.webp",
+            "link": "https://meli.la/23jwNs9"
+        },
+        {
+            "nome": "Armário de Cozinha Completa Modulada Compacta Madesa Emilly Balcão Rp Cor Rustic/Preto XAGREM2930017K",
+            "preco": "989.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_884620-MLA99504214742_112025-F.webp",
+            "link": "https://meli.la/1hoEp2p"
+        },
+        {
+            "nome": "Armário de cozinha modulada completa compacta Emilly pop com armário e balcão cor rustic/preto GREM229002",
+            "preco": "643.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_632218-MLA99511195612_112025-F.webp",
+            "link": "https://meli.la/19aDTs3"
+        },
+        {
+            "nome": "Conjunto De Panelas 9 Peças Antiaderente Com Tampa De Vidro E Utensílios Fogão A Gás Preto Bege 4.7 Avaliação 4.7 de 5. 317 opiniões. (317)",
+            "preco": "179.91",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_739366-MLA111359443500_052026-F.webp",
+            "link": "https://meli.la/21rcjno"
+        },
+        {
+            "nome": "Capa Protetora Colchão Box Casal Padrão Matelado Impermeável",
+            "preco": "28.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_639258-MLB82839590542_032025-F-capa-protetora-colcho-box-casal-padro-matelado-impermeavel.webp",
+            "link": "https://meli.la/1eR2AfT"
+        },
+        {
+            "nome": "Edredom Casal Queen 400 Fios Dupla Face Grosso Hotel Oferta",
+            "preco": "58.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_904867-MLB80196068385_102024-F-edredom-casal-queen-400-fios-dupla-face-grosso-hotel-oferta.webp",
+            "link": "https://meli.la/33C6cQ5"
+        },
+        {
+            "nome": "Kit Cobre Leito Colcha Queen 3 Peças Boutis Lisas Dupla Face Porta Travesseiro Aba Americana Isabel Areia",
+            "preco": "96.89",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_772711-MLA110423751613_042026-F.webp",
+            "link": "https://meli.la/1w6oNLQ"
+        },
+        {
+            "nome": "Cobre Leito Queen Matelado Dupla Face Leve Confortável Macio Cinza Matelado",
+            "preco": "39.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_800037-MLA112363389478_062026-F.webp",
+            "link": "https://meli.la/1cv7AMa"
+        },
+        {
+            "nome": "Cobertor Queen Grosso Coberdrom Lã Carneiro Dupla Face Manta",
+            "preco": "129.51",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_781779-MLB108371276181_032026-F-cobertor-queen-grosso-coberdrom-l-carneiro-dupla-face-manta.webp",
+            "link": "https://meli.la/27tHZwT"
+        }
+    ],
+    "sapatos": [
+        {
+            "nome": "Tênis Street Talk adidas",
+            "preco": "265.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_807529-MLB114397556835_072026-F-tnis-street-talk-adidas.webp",
+            "link": "https://meli.la/1nPgJsW"
+        },
+        {
+            "nome": "Tênis Casual Feminino Advantage Base 2.0 adidas",
+            "preco": "174.59",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_787700-MLA99501045236_112025-F.webp",
+            "link": "https://meli.la/1sijjMi"
+        },
+        {
+            "nome": "Tênis Feminino Streettalk Adidas",
+            "preco": "269.09",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_689771-MLB108812422537_032026-F.webp",
+            "link": "https://meli.la/1wbgc2B"
+        },
+        {
+            "nome": "Tênis Daily 4.0 adidas",
+            "preco": "284.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_965343-MLB114369415453_072026-F-tnis-daily-40-adidas.webp",
+            "link": "https://meli.la/1fsQowJ"
+        },
+        {
+            "nome": "Tênis Masculino Grand Court 3.0 Adidas",
+            "preco": "236.83",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_793926-MLB104857365413_012026-F.webp",
+            "link": "https://meli.la/1xhiNTR"
+        },
+        {
+            "nome": "Tênis adidas Runfalcon 5 Preto E Cinza",
+            "preco": "309.84",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_672868-MLB83760605585_042025-F-tnis-adidas-runfalcon-5-preto-e-cinza.webp",
+            "link": "https://meli.la/2CB2eAu"
+        },
+        {
+            "nome": "Tênis Casual Masculino Vl Court 3.0 Adidas",
+            "preco": "269.09",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_667755-MLA97750444271_112025-F.webp",
+            "link": "https://meli.la/2Nn8gR7"
+        },
+        {
+            "nome": "Tênis Masculino Vl Court 3.0 Adidas",
+            "preco": "246.30",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_748772-MLA97289464788_112025-F.webp",
+            "link": "https://meli.la/2Qfa8Lv"
+        },
+        {
+            "nome": "Tênis Feminino Streettalk adidas",
+            "preco": "269.09",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_854536-MLB99497536575_112025-F.webp",
+            "link": "https://meli.la/1SskWg8"
+        },
+        {
+            "nome": "Tênis Masculino Vs Pace 2.0 adidas",
+            "preco": "237.59",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_764496-MLA81708528254_012025-F.webp",
+            "link": "https://meli.la/2GkJG7V"
+        },
+        {
+            "nome": "Tênis Masculino Vl Court 3.0 Adidas",
+            "preco": "246.30",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_909215-MLA99336649018_112025-F.webp",
+            "link": "https://meli.la/2u1J7qP"
+        },
+        {
+            "nome": "Tênis Nike Revolution 8 Masculino",
+            "preco": "303.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_780705-MLB100878942159_122025-F-tnis-nike-revolution-8-masculino.webp",
+            "link": "https://meli.la/2Ae8FDH"
+        },
+        {
+            "nome": "Tênis Nike Revolution 8 Feminino",
+            "preco": "319.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_972236-MLB111793849296_062026-F-tnis-nike-revolution-8-feminino.webp",
+            "link": "https://meli.la/1VXQtbC"
+        },
+        {
+            "nome": "Tênis Nike Mc Trainer 3 Masculino",
+            "preco": "349.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_623887-MLB100241409643_122025-F-tnis-nike-mc-trainer-3-masculino.webp",
+            "link": "https://meli.la/1ykq2Gr"
+        },
+        {
+            "nome": "Tênis Nike Court Lite 4 Masculino",
+            "preco": "408.49",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_888163-MLB113108580951_062026-F-tnis-nike-court-lite-4-masculino.webp",
+            "link": "https://meli.la/118FVXo"
+        },
+        {
+            "nome": "Tênis Nike Sb Force 58 Masculino",
+            "preco": "379.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_707207-MLB100396285912_122025-F-tnis-nike-sb-force-58-masculino.webp",
+            "link": "https://meli.la/2rRAMoP"
+        },
+        {
+            "nome": "Tênis Nike Mc Trainer 3 Feminino",
+            "preco": "349.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_931857-MLB99754733578_122025-F-tnis-nike-mc-trainer-3-feminino.webp",
+            "link": "https://meli.la/2XVX8A7"
+        },
+        {
+            "nome": "Tênis Nike Flex Experience Run 12 Masculino",
+            "preco": "299.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_861622-MLB86232590069_062025-F-tnis-nike-flex-experience-run-12-masculino.webp",
+            "link": "https://meli.la/1HvSKCv"
+        },
+        {
+            "nome": "Tênis Nike Run Defy Feminino",
+            "preco": "289.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_721980-MLB111975874062_062026-F-tnis-nike-run-defy-feminino.webp",
+            "link": "https://meli.la/1hCqfgt"
+        },
+        {
+            "nome": "Tênis Nike Court Legacy Lift Feminino",
+            "preco": "370.49",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_763520-MLB100896150401_122025-F-tnis-nike-court-legacy-lift-feminino.webp",
+            "link": "https://meli.la/11hmqHY"
+        },
+        {
+            "nome": "Tênis Nike Ebernon Low Masculino",
+            "preco": "346.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_668117-MLB112323264557_052026-F.webp",
+            "link": "https://meli.la/28YANy6"
+        },
+        {
+            "nome": "Tênis Nike Quest 6 Feminino",
+            "preco": "399.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_963542-MLB110130861455_042026-F.webp",
+            "link": "https://meli.la/18wuHx6"
+        },
+        {
+            "nome": "Tênis Fila Academia Corrida Caminhada Treino Barato Macio",
+            "preco": "99.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_778419-MLB110957964133_042026-F-tnis-fila-academia-corrida-caminhada-treino-barato-macio.webp",
+            "link": "https://meli.la/29DwWBQ"
+        },
+        {
+            "nome": "Tenis Fila Feminino Progress Lite Corrida",
+            "preco": "234.05",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_841866-MLB103367597044_012026-F-tenis-fila-feminino-progress-lite-corrida.webp",
+            "link": "https://meli.la/2eUH8qN"
+        },
+        {
+            "nome": "Tenis Fila Progress Lite Feminino Treino Academia Corrida",
+            "preco": "279.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_779595-MLB84290025777_052025-F-tenis-fila-progress-lite-feminino-treino-academia-corrida.webp",
+            "link": "https://meli.la/1x5YdmG"
+        },
+        {
+            "nome": "Tênis Original Fila Racer T2 Xtreme Masculino Corrida",
+            "preco": "299.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_642761-MLB114335207821_072026-F.webp",
+            "link": "https://meli.la/1C47m6K"
+        },
+        {
+            "nome": "Tênis Fila Feminino Progress Lite Esportivo Oferta",
+            "preco": "283.50",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_827902-MLB111193534586_052026-F-tnis-fila-feminino-progress-lite-esportivo-oferta.webp",
+            "link": "https://meli.la/2rXiLgL"
+        },
+        {
+            "nome": "Tênis Fila Vector Feminino Esportivo Leve Conforto Diário",
+            "preco": "179.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_897657-MLB108420100281_032026-F-tnis-fila-vector-feminino-esportivo-leve-conforto-diario.webp",
+            "link": "https://meli.la/1RX2Exj"
+        },
+        {
+            "nome": "Tênis Fila Progress Lite Masculino Corrida - Caminhada",
+            "preco": "274.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_791029-MLB112457487078_062026-F-tnis-fila-progress-lite-masculino-corrida-caminhada.webp",
+            "link": "https://meli.la/2mzqXmm"
+        },
+        {
+            "nome": "Tenis Masculino Fila Maxxi Lite Preto Corrida Leve Corrida",
+            "preco": "252.88",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_809185-MLB99991808408_122025-F-tenis-masculino-fila-maxxi-lite-preto-corrida-leve-corrida.webp",
+            "link": "https://meli.la/27qer1J"
+        },
+        {
+            "nome": "Tênis Puma Shuffle Downtown Og Masculino Original Casual",
+            "preco": "290.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_941302-MLB108094422514_032026-F.webp",
+            "link": "https://meli.la/1CvccFR"
+        },
+        {
+            "nome": "Tênis Carina Feminino Puma",
+            "preco": "219.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_734830-MLB110359512132_052026-F.webp",
+            "link": "https://meli.la/13gH9qR"
+        },
+        {
+            "nome": "Tênis Puma Sem Gênero 397444",
+            "preco": "219.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_791457-MLB85012764583_052025-F.webp",
+            "link": "https://meli.la/2mRapn4"
+        },
+        {
+            "nome": "Tênis Skate Pm Alta Qualidade P180 Sneaker Premium Envio 24h",
+            "preco": "209.42",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_878917-MLB112159587978_062026-F.webp",
+            "link": "https://meli.la/2Ds43c2"
+        },
+        {
+            "nome": "Tenis Puma Flyer Runner Mesh Bdp Preto",
+            "preco": "274.55",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_612050-MLB93908827966_102025-F-tenis-puma-flyer-runner-mesh-bdp-preto.webp",
+            "link": "https://meli.la/1mEVU48"
+        },
+        {
+            "nome": "Tênis Puma Shuffle",
+            "preco": "239.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_891191-MLB89615445190_082025-F-tnis-puma-shuffle.webp",
+            "link": "https://meli.la/2oi8dHD"
+        },
+        {
+            "nome": "Tênis Flexfocus Lite Modern Bdp Puma",
+            "preco": "219.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_693828-MLB109427022344_042026-F-tnis-flexfocus-lite-modern-bdp-puma.webp",
+            "link": "https://meli.la/2gYNhpJ"
+        },
+        {
+            "nome": "Tênis Flyer Runner Mesh Bdp Puma",
+            "preco": "208.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_851178-MLB85667840463_062025-F-tnis-flyer-runner-mesh-bdp-puma.webp",
+            "link": "https://meli.la/19V5eyS"
+        },
+        {
+            "nome": "Tênis Feminino Nyx Olympikus",
+            "preco": "110.49",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_923950-MLB89804623670_082025-F.webp",
+            "link": "https://meli.la/1qwxGys"
+        },
+        {
+            "nome": "Tenis Olympikus Atmos Feminino",
+            "preco": "172.11",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_866258-MLB100475251084_122025-F.webp",
+            "link": "https://meli.la/1iX7gjq"
+        },
+        {
+            "nome": "Tênis Olympikus Vértice Feminino Rosa Para Corrida",
+            "preco": "126.10",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_638502-MLB111743104335_052026-F-tnis-olympikus-vertice-feminino-rosa-para-corrida.webp",
+            "link": "https://meli.la/2tVSKQK"
+        },
+        {
+            "nome": "Tênis Olympikus Acqua Feminino",
+            "preco": "169.85",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_876643-MLA100702319800_122025-F.webp",
+            "link": "https://meli.la/15SkpnM"
+        },
+        {
+            "nome": "Tênis Casual Feminino Intuit Tecido Knit Olympikus",
+            "preco": "179.55",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_602752-MLA99994011679_112025-F.webp",
+            "link": "https://meli.la/2nT6D1A"
+        },
+        {
+            "nome": "Tênis Esportivo Feminino Olympikus Citrus Academia Original",
+            "preco": "176.59",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_894139-MLB108490073934_032026-F-tnis-esportivo-feminino-olympikus-citrus-academia-original.webp",
+            "link": "https://meli.la/28uZkLM"
+        },
+        {
+            "nome": "Tênis Olympikus Intuit Feminino Caminhada Corrida Uso Casual",
+            "preco": "199.49",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_830810-MLB91804790665_092025-F-tnis-olympikus-intuit-feminino-caminhada-corrida-uso-casual.webp",
+            "link": "https://meli.la/1spxyWo"
+        },
+        {
+            "nome": "Tênis Olympikus Academia Corrida Treino Casual Lançamento",
+            "preco": "89.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_970025-MLB108806120496_032026-F-tnis-olympikus-academia-corrida-treino-casual-lancamento.webp",
+            "link": "https://meli.la/2Ae8LCQ"
+        },
+        {
+            "nome": "Tênis Masculino Esportivo Treino Confortável Olympikus Marte",
+            "preco": "147.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_912623-MLB110127921749_042026-F.webp",
+            "link": "https://meli.la/1g56YmM"
+        },
+        {
+            "nome": "Tênis Olympikus Acqua Feminino Esportivo Original",
+            "preco": "194.70",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_831144-MLB112020827342_062026-F-tnis-olympikus-acqua-feminino-esportivo-original.webp",
+            "link": "https://meli.la/2Tgea39"
+        }
+    ],
+    "perfumes": [
+        {
+            "nome": "Perfume Cebolinha Deo Colônia Jequiti 50ml - Embalagem Vidro Turma Da Mônica",
+            "preco": "47.40",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_613302-MLA89134454098_082025-F.webp",
+            "link": "https://meli.la/1XJRm11"
+        },
+        {
+            "nome": "Deo Colônia Masculina Eudora H Tradicional 100ml",
+            "preco": "76.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_903532-MLA82375189445_022025-F.webp",
+            "link": "https://meli.la/2jExj31"
+        },
+        {
+            "nome": "Natura K Max Deo Parfum 100 ml Para Homem",
+            "preco": "155.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_663178-MLA82822333969_032025-F.webp",
+            "link": "https://meli.la/2C5jq4g"
+        },
+        {
+            "nome": "Natura Essencial Exclusivo Masculino Eau de parfum 100 m",
+            "preco": "154.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_820895-MLA48087898727_112021-F.webp",
+            "link": "https://meli.la/2V2BtEA"
+        },
+        {
+            "nome": "Perfume Masculino Emporio Armani Stronger With You Edt 100ml",
+            "preco": "453.28",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_733398-MLA114453273457_072026-F.webp",
+            "link": "https://meli.la/2VNLZDn"
+        },
+        {
+            "nome": "Eudora Club 6 Voyage Deo-colônia 95ml para masculino",
+            "preco": "95.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_888890-MLA109484188480_042026-F.webp",
+            "link": "https://meli.la/2p5CkvY"
+        },
+        {
+            "nome": "Perfume Asad Lataffa 100ml Eau De Parfum Original Edp",
+            "preco": "195.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_796993-MLB88788122574_082025-F.webp",
+            "link": "https://meli.la/1K5mAMj"
+        },
+        {
+            "nome": "Perfume Masculino Year One Polo Club Parfum Verde Classico",
+            "preco": "100.88",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_604317-MLB92689536329_092025-F.webp",
+            "link": "https://meli.la/2Se4E3a"
+        },
+        {
+            "nome": "Perfume Armaf Club De Nuit Intense 105mL EDT",
+            "preco": "158.89",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_701465-MLA109483577626_042026-F.webp",
+            "link": "https://meli.la/2yq4uk4"
+        },
+        {
+            "nome": "212 Vip Man Black Carolina Herrera Edp 100ml Masculino",
+            "preco": "758.85",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_852188-MLB92890384072_092025-F.webp",
+            "link": "https://meli.la/2x55QkT"
+        },
+        {
+            "nome": "Perfume Rabanne Invictus Eau de Toilette 100 ml Masculino",
+            "preco": "413.91",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_612185-MLA93461919705_092025-F.webp",
+            "link": "https://meli.la/2CDfowj"
+        },
+        {
+            "nome": "Perfume Carolina Herrera 212 VIP Black Eau de Parfum 100 ml masculino",
+            "preco": "469.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_846302-MLA93401237749_092025-F.webp",
+            "link": "https://meli.la/2DS8N35"
+        },
+        {
+            "nome": "Kit Passion Tha Beauty Body Splash + Loção Hidratante",
+            "preco": "140.15",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_640767-MLA109377693671_032026-F.webp",
+            "link": "https://meli.la/2VRtMRh"
+        },
+        {
+            "nome": "Kit Aurora Tha Beauty Body Splash + Loção Hidratante Brilho",
+            "preco": "140.15",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_765229-MLA109035110025_032026-F.webp",
+            "link": "https://meli.la/1c9VJka"
+        },
+        {
+            "nome": "Kit Lovely : Deo Colônia + Body Splash Tha Beauty",
+            "preco": "235.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_686309-MLB110210427414_052026-F.webp",
+            "link": "https://meli.la/1P2dG27"
+        },
+        {
+            "nome": "Accordes Desodorante Colônia Tradicional 80ml - oBoticário",
+            "preco": "185.56",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_960960-MLA102606550764_122025-F.webp",
+            "link": "https://meli.la/2uk6xRa"
+        },
+        {
+            "nome": "Body Splash Maçã Encantada Tha Beauty Doce Inesquecível 200ml",
+            "preco": "66.47",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_917607-MLA108734362010_032026-F.webp",
+            "link": "https://meli.la/19H9KkG"
+        },
+        {
+            "nome": "Body Splash Feminino Beijo Da Princesa Tha Beauty 200ml Encanto",
+            "preco": "66.47",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_790866-MLA112896393229_062026-F.webp",
+            "link": "https://meli.la/2NHes3r"
+        },
+        {
+            "nome": "Body Splash Cristais Mágicos Tha Beauty Fragrância Floral 200ml",
+            "preco": "66.47",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_718228-MLA112428804838_062026-F.webp",
+            "link": "https://meli.la/2P3WHCw"
+        },
+        {
+            "nome": "Noite Estrelada: Body Splash + Loção - Tha Beauty",
+            "preco": "147.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_704957-MLA92385042884_092025-F.webp",
+            "link": "https://meli.la/2931v8E"
+        },
+        {
+            "nome": "Body Splash Aurora Shine Aura Beauty Jade Picon 200ml",
+            "preco": "75.08",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_848215-MLA112893547421_062026-F.webp",
+            "link": "https://meli.la/27iuJCR"
+        },
+        {
+            "nome": "Perfume Afrodite Secret Garden Aura Beauty Jade Picon 50ml",
+            "preco": "129.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_748609-MLB110074513486_042026-F-perfume-afrodite-secret-garden-aura-beauty-jade-picon-50ml.webp",
+            "link": "https://meli.la/1xiRywm"
+        },
+        {
+            "nome": "Dunna Colônia 100ml - Tha Beauty",
+            "preco": "143.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_954253-MLA109748696889_032026-F.webp",
+            "link": "https://meli.la/2HiJ1nH"
+        },
+        {
+            "nome": "Maresia Colônia 100ml - Tha Beauty",
+            "preco": "166.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_833827-MLA105502183428_012026-F.webp",
+            "link": "https://meli.la/1RzAuPX"
+        },
+        {
+            "nome": "Kit Céu De Algodão Tha Beauty Body Splash + Loção Hidratante",
+            "preco": "140.15",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_845565-MLA108873694865_032026-F.webp",
+            "link": "https://meli.la/2ZwtAL5"
+        },
+        {
+            "nome": "Body Splash Luzes Da Torre Tha Beauty Fragrância Floral Ambarada 200ml",
+            "preco": "66.47",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_715657-MLA112159768323_052026-F.webp",
+            "link": "https://meli.la/1262ZLZ"
+        },
+        {
+            "nome": "Perfume Céu De Algodão Tha Beauty Fragrância Doce Leve 100ml",
+            "preco": "166.47",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_922210-MLA109483042604_042026-F.webp",
+            "link": "https://meli.la/1T3k8Ez"
+        },
+        {
+            "nome": "Perfume Passion Le Essence Tha Beauty Fragrância Vibrante 100ml",
+            "preco": "172.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_743065-MLB107159022682_022026-F.webp",
+            "link": "https://meli.la/2iDFTPm"
+        },
+        {
+            "nome": "Perfume Noite Estrelada Tha Beauty Floral Amadeirado 100ml",
+            "preco": "171.62",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_603646-MLA109404598021_032026-F.webp",
+            "link": "https://meli.la/34c8tr4"
+        },
+        {
+            "nome": "Presente Eudora Club 6 Prestige 95ml Loção 200ml + Sacola",
+            "preco": "179.35",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_957538-MLB113962082975_062026-F.webp",
+            "link": "https://meli.la/1ZS9CF7"
+        },
+        {
+            "nome": "Perfume Feminino Eudora Diva Esplêndida Deo Colônia 100ml",
+            "preco": "96.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_972589-MLB110978676084_052026-F.webp",
+            "link": "https://meli.la/2eT1sup"
+        },
+        {
+            "nome": "Perfume Luxuoso Feminino Eudora Golden Eau De Parfum 75ml",
+            "preco": "155.10",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_769017-MLB111950589633_052026-F.webp",
+            "link": "https://meli.la/29RYxdy"
+        },
+        {
+            "nome": "Colônia Magnific Rouge Camélia 75ml - Eudora",
+            "preco": "89.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_665221-MLA80429162513_112024-F.webp",
+            "link": "https://meli.la/1UUQLSf"
+        },
+        {
+            "nome": "Perfume Club 6 Intenso Colônia 95ml Volume Da Unidade 95 Ml",
+            "preco": "115.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_966761-MLA80952435033_112024-F.webp",
+            "link": "https://meli.la/22XN9yg"
+        },
+        {
+            "nome": "Perfume Feminino Eudora Diva Fabulosa 100ml",
+            "preco": "78.95",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_669754-MLU74194952563_012024-F.webp",
+            "link": "https://meli.la/342MRhm"
+        },
+        {
+            "nome": "Body Splash Corporal Eudora 200ml Spray Perfumado Feminino",
+            "preco": "54.36",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_665961-MLB88811782528_082025-F-body-splash-corporal-eudora-200ml-spray-perfumado-feminino.webp",
+            "link": "https://meli.la/2EqNthV"
+        },
+        {
+            "nome": "Perfume Rabanne Invictus Parfum 50 ml Masculino",
+            "preco": "488.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_673949-MLA95941366056_102025-F.webp",
+            "link": "https://meli.la/2WDV3Hf"
+        },
+        {
+            "nome": "Perfume Rabanne Invictus Eau De Toilette 200 ml Masculino",
+            "preco": "629.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_612343-MLA93046552852_092025-F.webp",
+            "link": "https://meli.la/15vaPgg"
+        },
+        {
+            "nome": "Perfume Rabanne Invictus Victory Elixir Parfum 200 ml Masculino",
+            "preco": "681.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_941156-MLA100377237888_122025-F.webp",
+            "link": "https://meli.la/1ptVm6q"
+        },
+        {
+            "nome": "Perfume Rabanne Phantom Eau de Toilette 150 ml Masculino",
+            "preco": "651.19",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_935666-MLA93897088621_102025-F.webp",
+            "link": "https://meli.la/21fxoWE"
+        },
+        {
+            "nome": "Paco Rabanne Phantom Parfum - Perfume Masculino 50ml",
+            "preco": "535.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_825689-MLU72721194713_112023-F.webp",
+            "link": "https://meli.la/2V7mc9f"
+        },
+        {
+            "nome": "Perfume Rabanne Phantom Eau de Toilette 50 ml Masculino",
+            "preco": "484.95",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_797821-MLA72898529891_112023-F.webp",
+            "link": "https://meli.la/1PQPfo3"
+        },
+        {
+            "nome": "Rabanne Phantom Elixir - Perfume Masculino 100ml",
+            "preco": "586.96",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_878837-MLA82771455843_022025-F.webp",
+            "link": "https://meli.la/1pHLjui"
+        },
+        {
+            "nome": "Perfume Rabanne Phantom Intense Eau de Parfum Intense Recarregável 150 ml Masculino",
+            "preco": "652.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_881003-MLA103720449474_012026-F.webp",
+            "link": "https://meli.la/2h1k8u3"
+        },
+        {
+            "nome": "Perfume Rabanne Fame Intense Eau de Parfum Intense 30 ml Feminino",
+            "preco": "397.91",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_698919-MLA104154145871_012026-F.webp",
+            "link": "https://meli.la/1XarJVf"
+        }
+    ],
+    "maquiagens": [
+        {
+            "nome": "Vittak Organizador Maquiagem Cosméticos Batom Acrílico Giratório 360º Ajustável",
+            "preco": "38.16",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_986811-MLA112845656392_072026-F.webp",
+            "link": "https://meli.la/1jYzdat"
+        },
+        {
+            "nome": "Pincel Para Corretivo E Acabamento 06 | Mari Maria Makeup Branco",
+            "preco": "66.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_691212-MLA111292136485_052026-F.webp",
+            "link": "https://meli.la/22Pqbmi"
+        },
+        {
+            "nome": "Iluminador Ruby Rose Baked Linha Glass Efeito Acetinado Tom Da Maquiagem Bh03",
+            "preco": "14.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_932310-MLA82457458697_022025-F.webp",
+            "link": "https://meli.la/1MExKcC"
+        },
+        {
+            "nome": "Paleta Ruby Rose Mood: Blush, Contorno E Iluminador",
+            "preco": "28.59",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_926287-MLB106588847197_022026-F.webp",
+            "link": "https://meli.la/2cRkdJj"
+        },
+        {
+            "nome": "Payot Corretivo Líquido Matte Alta Cobertura Cor 2",
+            "preco": "30.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_759009-MLU77905275461_072024-F.webp",
+            "link": "https://meli.la/2nhqyD5"
+        },
+        {
+            "nome": "Base Líquida Payot Boca Rosa Beauty Mate Antienvelhecimento Tom 7-Marcia 30mL",
+            "preco": "27.29",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_873723-MLU74220071869_012024-F.webp",
+            "link": "https://meli.la/1dV5Bk1"
+        },
+        {
+            "nome": "Kit Fran Chillicake Kit By Franciny Ehlke",
+            "preco": "60.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_976292-MLA95803327632_102025-F.webp",
+            "link": "https://meli.la/1bR4n7i"
+        },
+        {
+            "nome": "Océane -contour Stick- Caramel Marrom Medio6g",
+            "preco": "50.48",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_927672-MLA80097153203_102024-F.webp",
+            "link": "https://meli.la/1XPLhwD"
+        },
+        {
+            "nome": "Pó Compacto Translúcido Boca Rosa Jujuba",
+            "preco": "47.92",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_899169-MLA81771385866_012025-F.webp",
+            "link": "https://meli.la/2fevtdX"
+        },
+        {
+            "nome": "Base Líquida Niina Secrets Hidra Glow Cor 05 30ml",
+            "preco": "62.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_861683-MLA84550306520_052025-F.webp",
+            "link": "https://meli.la/2wkbPXY"
+        },
+        {
+            "nome": "Blush Labranche Cristal Paleta Brilho Natural LA7178",
+            "preco": "19.60",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_666420-MLA111032298928_052026-F.webp",
+            "link": "https://meli.la/33vyzfs"
+        },
+        {
+            "nome": "Kit Pincel De Maquiagem Com 13 Unidades Sombra Blush Cor Marrom",
+            "preco": "19.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_672781-MLA92082962837_092025-F.webp",
+            "link": "https://meli.la/1Pr2cCW"
+        },
+        {
+            "nome": "Gloss Hidratante 3D Hydra Kiko Milano Cor 35 Lilás Efeito Brilhante",
+            "preco": "33.17",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_791428-MLA88113480876_072025-F.webp",
+            "link": "https://meli.la/31XVpm5"
+        },
+        {
+            "nome": "Paleta de Sombras Girl's Syndrome Blow Ruby Rose® 18 Cores HBE2206",
+            "preco": "48.03",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_660877-MLA104286106217_012026-F.webp",
+            "link": "https://meli.la/1JrXFv8"
+        },
+        {
+            "nome": "Batom Creamy Matte Glass Hbf567 Cor GL03 Ruby Rose",
+            "preco": "19.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_652001-MLA84989936580_052025-F.webp",
+            "link": "https://meli.la/2yVYt8H"
+        },
+        {
+            "nome": "Pincel Maquiagem Profissionais Multifuncional Macio 15pcs",
+            "preco": "35.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_999638-MLB94609829594_102025-F.webp",
+            "link": "https://meli.la/1Mq3ikC"
+        },
+        {
+            "nome": "Corretivo Líquido, Multiuso que Corrige Olheiras e Linhas Finas, Contorna e Ilumina, Alta Cobertura e Fórmula Vegana, Cor 120 Light Instant Age Rewind Maybelline NY 6ml",
+            "preco": "67.10",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_729600-MLA89986785722_082025-F.webp",
+            "link": "https://meli.la/2CqcHfP"
+        },
+        {
+            "nome": "Base Matte Payot Alta Cobertura 30ml",
+            "preco": "37.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_665664-MLB98660736891_112025-F-base-matte-payot-alta-cobertura-30ml.webp",
+            "link": "https://meli.la/2PJyrXn"
+        },
+        {
+            "nome": "Máscara de Cílios Peel Off Melu Ruby Rose Selfie",
+            "preco": "19.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_657119-MLU74049259706_012024-F.webp",
+            "link": "https://meli.la/2wfNt9B"
+        },
+        {
+            "nome": "Kit 6 Gloss Labial Brilho Intenso Glitter Sarah's Beauty",
+            "preco": "58.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_885865-MLA109859139540_042026-F.webp",
+            "link": "https://meli.la/1NdDa74"
+        },
+        {
+            "nome": "Kit Fran Chocoeyes Máscara Cilios Marrom E Lápis By Franciny",
+            "preco": "76.53",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_678557-MLB98209977318_112025-F.webp",
+            "link": "https://meli.la/1cKGCs8"
+        },
+        {
+            "nome": "Corretivo Cover Stick C-02 4g Fran By Franciny Ehlke Tom Amarelado",
+            "preco": "48.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_663151-MLA84837331531_052025-F.webp",
+            "link": "https://meli.la/2491Fsj"
+        },
+        {
+            "nome": "Batom Líquido Matte Xoxo 5g Fran By Franciny Ehlke Xoxo",
+            "preco": "45.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_910221-MLB48593041749_122021-F.webp",
+            "link": "https://meli.la/1a9kByp"
+        },
+        {
+            "nome": "Kit Fran Love Kit Gloss Labial E Lápis Labial By Franciny",
+            "preco": "78.49",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_666525-MLB85597283317_062025-F.webp",
+            "link": "https://meli.la/1H2gBKB"
+        },
+        {
+            "nome": "Gloss Fran By Franciny Ehlke Liphoney Mel",
+            "preco": "21.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_855365-MLB95050151929_102025-F.webp",
+            "link": "https://meli.la/1bryBUU"
+        },
+        {
+            "nome": "Bt Banana Hidratante Jelly Iluminador Bruna Tavares 40g",
+            "preco": "69.56",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_826402-MLB111718683712_062026-F.webp",
+            "link": "https://meli.la/1tgPVSb"
+        },
+        {
+            "nome": "Bruna Tavares - Fixador - Bt Fix",
+            "preco": "86.51",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_778346-MLB82890345578_032025-F.webp",
+            "link": "https://meli.la/1ZDHwQY"
+        },
+        {
+            "nome": "Blush Stick - Bruna Tavares - Bt Coca Cola - Multifuncional",
+            "preco": "69.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_842519-MLB100558528546_122025-F.webp",
+            "link": "https://meli.la/2eCe7G8"
+        },
+        {
+            "nome": "Bt Glaze Gloss Labial Bruna Tavares 5g Original",
+            "preco": "62.59",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_850338-MLB111602185209_052026-F.webp",
+            "link": "https://meli.la/1suzWLm"
+        },
+        {
+            "nome": "Balm Labial - Bruna Tavares - Bt Coca Cola - Pop Charm",
+            "preco": "39.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_874827-MLB101370765216_122025-F.webp",
+            "link": "https://meli.la/1tKVrJ7"
+        },
+        {
+            "nome": "Pó Facial - Bruna Tavares - Bt Skinpowder",
+            "preco": "56.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_754946-MLB90365411727_082025-F-po-facial-bruna-tavares-bt-skinpowder.webp",
+            "link": "https://meli.la/2zQvM1C"
+        },
+        {
+            "nome": "Corretivo - Bruna Tavares - Bt Multicover - Líquido Matte",
+            "preco": "61.65",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_816486-MLB89367003151_082025-F.webp",
+            "link": "https://meli.la/2JZ6cXN"
+        },
+        {
+            "nome": "Bt Skinplush - Bruna Tavares - Corretivo",
+            "preco": "55.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_868860-MLB106293793206_022026-F-bt-skinplush-bruna-tavares-corretivo.webp",
+            "link": "https://meli.la/2RymAXg"
+        },
+        {
+            "nome": "Delineador - Mari Maria - Cat Eyes - Caneta Delineadora",
+            "preco": "64.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_669067-MLB81563519068_012025-F.webp",
+            "link": "https://meli.la/1ZvdHVR"
+        },
+        {
+            "nome": "Primer - Mari Maria - Pore Perfect - Facial 20g",
+            "preco": "66.25",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_612181-MLB88579140871_072025-F.webp",
+            "link": "https://meli.la/337hme9"
+        },
+        {
+            "nome": "Corretivo Líquido Mari Maria Makeup Cover Up Mmc07 5,2m",
+            "preco": "49.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_907900-MLU75949052857_042024-F.webp",
+            "link": "https://meli.la/1bokMWZ"
+        },
+        {
+            "nome": "Lip Orange Mari Maria Makeup Lip Treatment",
+            "preco": "78.80",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_789179-MLB108853800176_032026-F.webp",
+            "link": "https://meli.la/1BC2u9v"
+        },
+        {
+            "nome": "Corretivo Alta Cobertura Matte Mari Maria Makeup Cover Up",
+            "preco": "58.72",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_897401-MLB99623486221_112025-F-corretivo-alta-cobertura-matte-mari-maria-makeup-cover-up.webp",
+            "link": "https://meli.la/2id4V5N"
+        },
+        {
+            "nome": "Máscara para Sobrancelhas Brow Up da Mari Maria",
+            "preco": "50.31",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_736530-MLA89227027499_082025-F.webp",
+            "link": "https://meli.la/1Tp3FZ1"
+        },
+        {
+            "nome": "Base E Corretivo Mari Maria Matte Velvet Skin Escolha A Cor",
+            "preco": "59.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_822875-MLB76300623460_052024-F.webp",
+            "link": "https://meli.la/1S25YuW"
+        },
+        {
+            "nome": "Pó Banana Solto Facial Fixador e Finalizador Fenzza",
+            "preco": "8.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_639734-MLA98377307373_112025-F.webp",
+            "link": "https://meli.la/31KaqU3"
+        },
+        {
+            "nome": "Lip Tint Cream Choco Fun Fenzza -brilho Labial Cremoso 4,5ml",
+            "preco": "19.18",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_626184-MLB111351983858_052026-F.webp",
+            "link": "https://meli.la/1Dunowy"
+        },
+        {
+            "nome": "Blush Compacto Facial Choco Fun Fenzza Makeup Cores Lindas",
+            "preco": "18.42",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_993218-MLB109902085488_042026-F.webp",
+            "link": "https://meli.la/1kWYugi"
+        },
+        {
+            "nome": "Kit Batom Soft Matte Choco Fun 4 Un. - Fenzza Cor Kit Batom Choco Fun",
+            "preco": "25.80",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_676628-MLA83595139830_042025-F.webp",
+            "link": "https://meli.la/29efS14"
+        },
+        {
+            "nome": "Lápis De Boca Fenzza Contorno Labial Retrátil Choco Fun",
+            "preco": "20.97",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_864097-MLB107093703843_022026-F.webp",
+            "link": "https://meli.la/21x4JFz"
+        },
+        {
+            "nome": "Pó Facial Rosa Mosqueta Fenzza - 15g",
+            "preco": "19.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_825796-MLU77827061866_072024-F.webp",
+            "link": "https://meli.la/2ahsbxm"
+        },
+        {
+            "nome": "Lip Tint Cream Choco Fun Fenzza- 4,5ml Brilho Labial Cremoso",
+            "preco": "19.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_650647-MLB109636429426_042026-F.webp",
+            "link": "https://meli.la/1mpvgAn"
+        },
+        {
+            "nome": "Pó Translúcido Facial Solto Fenzza Selar Maquiagem Branco",
+            "preco": "19.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_685439-MLA111965275700_062026-F.webp",
+            "link": "https://meli.la/2k9EdyG"
+        },
+        {
+            "nome": "Blush Stick Cinnamon Canela Marrom Bastão Original Vegano Vizzela",
+            "preco": "59.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_736808-MLA109406817446_042026-F.webp",
+            "link": "https://meli.la/1XPsNAJ"
+        },
+        {
+            "nome": "Fixador De Maquiagem Vizzela Real Fix 150ml",
+            "preco": "82.55",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_662438-MLU74830298362_032024-F.webp",
+            "link": "https://meli.la/2by3B9z"
+        },
+        {
+            "nome": "Fixador De Maquiagem Gotas Fix Vizzela",
+            "preco": "71.01",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_742785-MLU72566347722_112023-F.webp",
+            "link": "https://meli.la/25dmwja"
+        },
+        {
+            "nome": "Mascara De Cilios Oceane Edition Tubing Ruby/bordo - 6g",
+            "preco": "41.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_864238-MLB109540944873_032026-F.webp",
+            "link": "https://meli.la/2qzuQLQ"
+        },
+        {
+            "nome": "Base De Rosto Em Bastão Semi-matte Océane Almond Stick 8g",
+            "preco": "69.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_912779-MLB92489528374_092025-F.webp",
+            "link": "https://meli.la/1odyTnr"
+        },
+        {
+            "nome": "Blush Em Bastão Stick Océane Edition 12g Tom da maquiagem Cloudy Pink",
+            "preco": "39.78",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_843525-MLA92195411274_092025-F.webp",
+            "link": "https://meli.la/1D3c8k3"
+        },
+        {
+            "nome": "Pó Compacto Porcelain Edition Océane 8,5g",
+            "preco": "89.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_916156-MLB110463050284_052026-F.webp",
+            "link": "https://meli.la/1ypVzAn"
+        },
+        {
+            "nome": "Base Líquida Maquiagem Cobertura Semi Matte Facial Oceane",
+            "preco": "71.35",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_859375-MLB88821693286_082025-F-base-liquida-maquiagem-cobertura-semi-matte-facial-oceane.webp",
+            "link": "https://meli.la/1qf5RZT"
+        },
+        {
+            "nome": "Paleta de Sombras Océane Nádia Tambasco 3 Cores Dazzle",
+            "preco": "48.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_656714-MLA114453266317_072026-F.webp",
+            "link": "https://meli.la/1TXspXQ"
+        },
+        {
+            "nome": "Bronzer Cremoso Marrom Claro Océane Dune Efeito Natural",
+            "preco": "61.20",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_638656-MLA105316366878_012026-F.webp",
+            "link": "https://meli.la/2tpSshf"
+        },
+        {
+            "nome": "Esponja Maquiagem - Océane - Flat Blend - Esponjinha Suave",
+            "preco": "39.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_888862-MLB90935242533_082025-F.webp",
+            "link": "https://meli.la/1zrYEjy"
+        },
+        {
+            "nome": "Base Em Bastao Semi-matte Foundation Stick Oceane - 8g",
+            "preco": "66.80",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_975257-MLB88696444588_072025-F-base-em-bastao-semi-matte-foundation-stick-oceane-8g.webp",
+            "link": "https://meli.la/2BBFFBP"
+        },
+        {
+            "nome": "Océane Edition Face Palette - Paleta Iluminador Contorno Bronzer e Blush",
+            "preco": "119.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_781179-MLU75493960093_032024-F.webp",
+            "link": "https://meli.la/1j91vRc"
+        },
+        {
+            "nome": "Oceane Blush Cremoso E Em Pó Duo Blush Tom Da Maquiagem Cherry Paint - Cereja",
+            "preco": "51.72",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_866146-MLA86847774441_062025-F.webp",
+            "link": "https://meli.la/1hSm111"
+        },
+        {
+            "nome": "Corretivo Líquido Claro Concealer Edition Tom Fair 15g Océane",
+            "preco": "61.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_830826-MLU72772296069_112023-F.webp",
+            "link": "https://meli.la/11FogtA"
+        },
+        {
+            "nome": "Cílios Tufinho Mink Sintético 10D Curvatura D 9-14mm Chic & Fun",
+            "preco": "27.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_752998-MLA85524303420_062025-F.webp",
+            "link": "https://meli.la/1fXVnB2"
+        }
+    ],
+    "cabelo": [
+        {
+            "nome": "Óleo Capilar Elseve Extraordinário 100ml Loreal",
+            "preco": "45.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_755765-MLA99429969962_112025-F.webp",
+            "link": "https://meli.la/2G8rwnj"
+        },
+        {
+            "nome": "Escova Fitagem Cachos + Kit 3 Pente Escovinha Baby Hair",
+            "preco": "33.95",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_660834-MLB112446110416_062026-F.webp",
+            "link": "https://meli.la/2DMZDwL"
+        },
+        {
+            "nome": "Pente Cabo Separador Mechas Dentes Finos Marco Boni Ref 1208",
+            "preco": "19.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_752965-MLA84475559801_052025-F.webp",
+            "link": "https://meli.la/1QGt7CH"
+        },
+        {
+            "nome": "Belliz Company Pente Ricca Para Fitagem De Cabelos Cachos Cód 1016 Cor Roxo",
+            "preco": "19.40",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_689421-MLU77841528722_072024-F.webp",
+            "link": "https://meli.la/2UbQvKF"
+        },
+        {
+            "nome": "Kit 5 Escovas E Pentes De Cabelo Com Suporte Vermelho",
+            "preco": "28.22",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_787149-CBT102281517331_122025-F.webp",
+            "link": "https://meli.la/1gc9LNJ"
+        },
+        {
+            "nome": "Máscara Capilar Siàge Regeneração Pós Química Eudora 250g",
+            "preco": "55.28",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_664511-MLU71737850561_092023-F.webp",
+            "link": "https://meli.la/2uhGj63"
+        },
+        {
+            "nome": "Leave In Cica Therapy Cicatrizante Capilar 100ml Eudora",
+            "preco": "46.55",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_911727-MLB75066307670_032024-F.webp",
+            "link": "https://meli.la/32DC9V4"
+        },
+        {
+            "nome": "Kit Eudora Siàge Resgate Imediato Shampoo + Condicionador",
+            "preco": "70.95",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_805137-MLA99928288469_112025-F.webp",
+            "link": "https://meli.la/1yyaQEP"
+        },
+        {
+            "nome": "Kit Shampoo + Condicionador Siàge Nutri Diamond Eudora",
+            "preco": "78.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_850007-MLB112746201842_062026-F.webp",
+            "link": "https://meli.la/2Vuu2o5"
+        },
+        {
+            "nome": "Máscara Eudora Siàge Nutri Rosé nutrição 250g",
+            "preco": "62.40",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_977880-MLA99924833623_112025-F.webp",
+            "link": "https://meli.la/2S9dWFT"
+        },
+        {
+            "nome": "Eudora Creme Para Pentear Siàge Revela Os Cachos 500g",
+            "preco": "57.87",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_958686-MLA99865308035_112025-F.webp",
+            "link": "https://meli.la/1Uobc4A"
+        },
+        {
+            "nome": "Kit Promopack Siàge Hair Plastia Eudora Shampoo + Condicionador",
+            "preco": "55.75",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_880090-MLU74281597136_022024-F.webp",
+            "link": "https://meli.la/1KMBfXP"
+        },
+        {
+            "nome": "Kit Promocional Siage Eudora Glow Expert Shampoo 250ml + Condicionador 125ml - Leia a Descrição",
+            "preco": "55.75",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_960469-MLA97119142886_112025-F.webp",
+            "link": "https://meli.la/2f1hXx4"
+        },
+        {
+            "nome": "Leave In Capilar Siàge Resgate Imediato Eudora 100ml",
+            "preco": "64.60",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_850999-MLB78117034675_082024-F.webp",
+            "link": "https://meli.la/2MZcjjN"
+        },
+        {
+            "nome": "Máscara Capilar Vegana Volume Imediato Eudora Siage 250ml",
+            "preco": "57.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_685609-MLB111530714239_052026-F.webp",
+            "link": "https://meli.la/2oBbdp5"
+        },
+        {
+            "nome": "Eudora Siàge Pro Cronology Creme Para Pentear Definição 2A.4A",
+            "preco": "39.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_758302-MLA99882161243_112025-F.webp",
+            "link": "https://meli.la/1RoBDSa"
+        },
+        {
+            "nome": "Kit Siàge Resgate Imediato: Shampoo + Condicionad + Máscara",
+            "preco": "122.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_901567-MLA99445339726_112025-F.webp",
+            "link": "https://meli.la/1CcP7WW"
+        },
+        {
+            "nome": "Kit Siàge Liso Intenso Eudora Shampoo E Condicionador",
+            "preco": "69.43",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_822753-MLB111290119238_052026-F.webp",
+            "link": "https://meli.la/1rADsza"
+        },
+        {
+            "nome": "Eudora Siage Nutri Rose Shampoo E Condicionador Eudora",
+            "preco": "71.60",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_728007-MLB82735894635_022025-F.webp",
+            "link": "https://meli.la/1czQvnG"
+        },
+        {
+            "nome": "Eudora Leave In Memorizador Siàge Pro Cronology 100ml Cabelo",
+            "preco": "42.67",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_889823-MLA109888179669_032026-F.webp",
+            "link": "https://meli.la/1CRTGaT"
+        },
+        {
+            "nome": "Kit Siage Hair Plastia Shampoo E Condicionador - Eudora Ful2",
+            "preco": "67.09",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_937748-MLA86559610430_062025-F.webp",
+            "link": "https://meli.la/15EW4SX"
+        },
+        {
+            "nome": "Shampoo Siàge Liso Intenso, 250ml - Eudora",
+            "preco": "39.62",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_825718-MLA106598061519_022026-F.webp",
+            "link": "https://meli.la/2B4RMm4"
+        },
+        {
+            "nome": "Máscara Capilar Siage Hair Plastia 250g Eudora",
+            "preco": "74.25",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_968623-MLA99845366651_112025-F.webp",
+            "link": "https://meli.la/1mSHsUw"
+        },
+        {
+            "nome": "Bruma Impermeabilizante Siàge Nutri Diamond Eudora 100ml",
+            "preco": "54.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_757599-MLB113936697333_062026-F.webp",
+            "link": "https://meli.la/2sRQcKa"
+        },
+        {
+            "nome": "Eudora Siàge Nutri Diamond Óleo Nutritivo 60ml",
+            "preco": "62.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_899019-MLA112369945262_062026-F.webp",
+            "link": "https://meli.la/1M7wZb2"
+        },
+        {
+            "nome": "Óleo Booster Cachos Ostentação 120ml",
+            "preco": "39.56",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_948170-MLA108248481728_032026-F.webp",
+            "link": "https://meli.la/2iiT4J2"
+        },
+        {
+            "nome": "Óleo De Tratamento Definição Natural Salon Line 50ml",
+            "preco": "19.32",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_811604-MLA108122826541_032026-F.webp",
+            "link": "https://meli.la/18WEsyr"
+        },
+        {
+            "nome": "Kit Óleos Capilares Superpoderosos Completo Forever Liss 7 M",
+            "preco": "27.92",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_671785-MLB108431008845_032026-F.webp",
+            "link": "https://meli.la/1X3KXQu"
+        },
+        {
+            "nome": "Óleo Bifásico Capilar Siàge Nutri Óleos Poderosos 90ml",
+            "preco": "68.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_695561-MLA99825021659_112025-F.webp",
+            "link": "https://meli.la/2UMnTs2"
+        },
+        {
+            "nome": "Xapadinha Óleo Disciplinante Antifrizz 50ml Lola from Rio",
+            "preco": "24.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_635138-MLA99445690386_112025-F.webp",
+            "link": "https://meli.la/2MxzZca"
+        },
+        {
+            "nome": "Kit De Óleo Capilar - Cronograma - Loca Cosmetics - 60ml",
+            "preco": "18.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_769890-MLA99815678375_112025-F.webp",
+            "link": "https://meli.la/25XbC5W"
+        },
+        {
+            "nome": "Koleston - Óleo Poderoso 9 Em 1 100ml",
+            "preco": "31.20",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_614336-MLB110949524991_042026-F.webp",
+            "link": "https://meli.la/1b6h4cL"
+        },
+        {
+            "nome": "Óleo Capilar Pinga! Patauá & Moringa 50ml Lola Cosmetics",
+            "preco": "35.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_831486-MLB69612636539_052023-F.webp",
+            "link": "https://meli.la/2NqyfiB"
+        },
+        {
+            "nome": "Braé Essential Oil Blend Reparação E Proteção Térmica 60ml",
+            "preco": "68.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_747071-MLA112400438167_052026-F.webp",
+            "link": "https://meli.la/1K1EU7e"
+        },
+        {
+            "nome": "Óleo Sérum Definição Natural 200ml Salon Line Toque Macio",
+            "preco": "32.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_825951-MLA101950300334_122025-F.webp",
+            "link": "https://meli.la/2PCjkhD"
+        },
+        {
+            "nome": "Argan Óleo Reparador 50ml , Lola from Rio",
+            "preco": "19.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_705288-MLA112253267746_062026-F.webp",
+            "link": "https://meli.la/2nuaLZK"
+        },
+        {
+            "nome": "Danos Vorazes Óleo Capilar Reparador 50mL - Lola Cosmetics",
+            "preco": "23.42",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_715869-MLA110046727259_042026-F.webp",
+            "link": "https://meli.la/1SXn1T1"
+        },
+        {
+            "nome": "Body Splash Xêrosa Vibes Pop Cabelo E Corpo Salon Line 200ml",
+            "preco": "35.79",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_909303-MLB110946853296_052026-F.webp",
+            "link": "https://meli.la/2w6KQnr"
+        },
+        {
+            "nome": "Body Splash Salon Line Xerosa Miss Radiante 200ml",
+            "preco": "37.13",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_712276-MLB107754419754_032026-F.webp",
+            "link": "https://meli.la/2yLjAzr"
+        },
+        {
+            "nome": "Body Splash Cabelo E Corpo Xêrosa Glamour Chic 200ml",
+            "preco": "29.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_892057-MLA93489927109_092025-F.webp",
+            "link": "https://meli.la/2Kaz29C"
+        },
+        {
+            "nome": "Body Splash Salon Line Cabelo E Corpo Xêrosa Rose Intense",
+            "preco": "32.47",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_885948-MLB94271408475_102025-F.webp",
+            "link": "https://meli.la/2Kaz29C"
+        },
+        {
+            "nome": "Xêrosa Body Splash Poder Das Divas Salon Line 200ml",
+            "preco": "34.59",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_973508-MLB107257569500_032026-F.webp",
+            "link": "https://meli.la/2TxjmYL"
+        },
+        {
+            "nome": "Body Splash Cabelo E Corpo Salon Line Xêrosa Miss Radiante 200ml",
+            "preco": "53.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_764060-MLB112989316299_062026-F.webp",
+            "link": "https://meli.la/2M5wfzW"
+        },
+        {
+            "nome": "Body Splash Xêrosa Poder Das Divas 200ml",
+            "preco": "27.60",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_840220-MLA108660557395_032026-F.webp",
+            "link": "https://meli.la/1CiHKUr"
+        },
+        {
+            "nome": "Xêrosa Body Splash Viva La Vida Salon Line 200ml",
+            "preco": "32.61",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_971935-MLA108588876587_032026-F.webp",
+            "link": "https://meli.la/1oJyFrz"
+        },
+        {
+            "nome": "Body Splash Salon Line Xerosa Verao Arabe 200ml",
+            "preco": "35.34",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_728207-MLB107760252350_032026-F.webp",
+            "link": "https://meli.la/2Sy8Jjh"
+        },
+        {
+            "nome": "Xêrosa Body Splash Beleza Fatal Salon Line 200ml",
+            "preco": "32.36",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_610447-MLA107886038682_032026-F.webp",
+            "link": "https://meli.la/1eBtZPR"
+        },
+        {
+            "nome": "Body Splash Xêrosa Baunilha Doce 200ml",
+            "preco": "25.88",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_712271-MLA93088781420_092025-F.webp",
+            "link": "https://meli.la/18qdSwp"
+        },
+        {
+            "nome": "Body Splash Salon Line Xerosa Flores Brilhantes 200ml",
+            "preco": "34.54",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_848780-MLB97330244551_112025-F.webp",
+            "link": "https://meli.la/2qhnTVZ"
+        },
+        {
+            "nome": "Creme Pentear Azeite Oliva Umectação Define Salon Line 1kg",
+            "preco": "36.50",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_971736-MLA99432210248_112025-F.webp",
+            "link": "https://meli.la/231P3WZ"
+        },
+        {
+            "nome": "Defrizante Meu Liso Muito+liso Amido Milho Salon Line 200ml",
+            "preco": "13.10",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_996555-MLA99843259395_112025-F.webp",
+            "link": "https://meli.la/25AzkPk"
+        },
+        {
+            "nome": "Tônico Fortalecedor SOS Bomba Crescimento Acelerado Salon Line 100ml",
+            "preco": "14.54",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_686003-MLA99338468392_112025-F.webp",
+            "link": "https://meli.la/2G9Z4im"
+        },
+        {
+            "nome": "Defrizante Meu Liso Demais Protetor Térmico Salon Line 200ml",
+            "preco": "13.10",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_724622-MLA108925167254_032026-F.webp",
+            "link": "https://meli.la/2X2tuvZ"
+        },
+        {
+            "nome": "Creme Para Pentear Salon Line Definição Natural 300ml",
+            "preco": "26.19",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_848205-MLB93964883649_102025-F.webp",
+            "link": "https://meli.la/1QBcxih"
+        },
+        {
+            "nome": "Creme De Pentear Definição Extraordinária 1kg Salon Line",
+            "preco": "35.12",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_820106-MLA109773198313_032026-F.webp",
+            "link": "https://meli.la/2YdpPsJ"
+        },
+        {
+            "nome": "Máscara De Tratamento Definição Natural Salon Line 300g",
+            "preco": "20.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_685475-MLA108128729103_032026-F.webp",
+            "link": "https://meli.la/2Uc3vYE"
+        },
+        {
+            "nome": "Creme Para Pentear Definição Imediata Salon Line 1kg",
+            "preco": "39.38",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_754446-MLA107849102684_032026-F.webp",
+            "link": "https://meli.la/28wSYnH"
+        },
+        {
+            "nome": "Creme Para Pentear Xô Porosidade Definição & Selagem Máxima",
+            "preco": "36.50",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_656112-MLA99340214506_112025-F.webp",
+            "link": "https://meli.la/26bL915"
+        },
+        {
+            "nome": "Creme Para Pentear Cachos Ostentação 1kg",
+            "preco": "36.50",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_937903-MLA99846026421_112025-F.webp",
+            "link": "https://meli.la/2fkqEV2"
+        },
+        {
+            "nome": "L'Oréal Paris Elseve Óleo Extraordinário 100ml - Leave In Anti Frizz Protetor Térmico Tratamento Reconstrutor Para Todos Os Tipos De Cabelo",
+            "preco": "27.69",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_642442-MLA112154284934_062026-F.webp",
+            "link": "https://meli.la/1XncA9S"
+        },
+        {
+            "nome": "Creme Para Pentear Definição Natural Salon Line Cachos 1kg",
+            "preco": "33.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_600893-MLA113956148445_062026-F.webp",
+            "link": "https://meli.la/2TLfDh8"
+        },
+        {
+            "nome": "Gelatina #todecacho Super Definição Salon Line 1 Kg",
+            "preco": "38.60",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_672041-MLA99936529691_112025-F.webp",
+            "link": "https://meli.la/283C6eJ"
+        },
+        {
+            "nome": "Máscara De Tratamento Elseve Glycolic Gloss Antiporosidade 300g",
+            "preco": "20.34",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_773771-MLA99931634059_112025-F.webp",
+            "link": "https://meli.la/2Uhg12v"
+        },
+        {
+            "nome": "Salon Line Sos Cachos +poderosos Óleo 10 Em 1 42ml",
+            "preco": "18.05",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_821217-MLA102447133595_122025-F.webp",
+            "link": "https://meli.la/2ffSW9Z"
+        },
+        {
+            "nome": "Creme de Tratamento Capilar Repara os 5 Sinais do Dano com Cicatri-Ceramida para Cabelos Danificados Reparação Total 5+ Elseve 300g",
+            "preco": "21.36",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_628747-MLA108909689934_032026-F.webp",
+            "link": "https://meli.la/2mwH4Pd"
+        },
+        {
+            "nome": "L'Oréal Paris Elseve Collagen Lifter Máscara de Tratamento Condicionante Efeito Teia Para Resgate de Massa com Peptídeos de Colágeno Reconstrói a Fibra e Dá Volume por 72h 300g",
+            "preco": "29.70",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_707622-MLA111154260840_052026-F.webp",
+            "link": "https://meli.la/2HfrnTD"
+        }
+    ],
+    "unha": [
+        {
+            "nome": "Kit Unha De Gel Completo Cabine Manicure Alongamento Acrigel",
+            "preco": "98.31",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_844323-MLB110843313033_042026-F-kit-unha-de-gel-completo-cabine-manicure-alongamento-acrigel.webp",
+            "link": "https://meli.la/1UPnTfs"
+        },
+        {
+            "nome": "Kit 200 Unha Postiça Almond Curta Branca Transparente Nail Manicure Nail Art Nail Designer Decoração de Unhas",
+            "preco": "17.60",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_693976-MLA87792861398_072025-F.webp",
+            "link": "https://meli.la/2x8ddF5"
+        },
+        {
+            "nome": "Kit Blindagem Das Unhas Fibra Nylon + Nivelador Fosco -blant",
+            "preco": "33.85",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_614069-MLB93549794248_102025-F.webp",
+            "link": "https://meli.la/1tihnmc"
+        },
+        {
+            "nome": "Kit Top Coat - Primer - Base P/ Gel Uv Da Marca X&d Manicure Cor Transparente",
+            "preco": "41.29",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_682520-MLU75988200519_042024-F.webp",
+            "link": "https://meli.la/27Kk6km"
+        },
+        {
+            "nome": "Kit Base Crescimento Endurecedor Top Beauty Formol 7ml Unhas Fortes",
+            "preco": "19.01",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_960206-MLU73121304484_122023-F.webp",
+            "link": "https://meli.la/1Dv8V1H"
+        },
+        {
+            "nome": "Kit 15 Esmaltes Sortidos Impala Coleção Cores Da Sua Moda Cor Colorido",
+            "preco": "63.04",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_878885-MLA92398411654_092025-F.webp",
+            "link": "https://meli.la/1BQbWpq"
+        },
+        {
+            "nome": "Kit 10 Esmaltes Impala Cores Sortidas Atacado Manicure Cor Sortidos",
+            "preco": "48.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_687042-MLA92313558732_092025-F.webp",
+            "link": "https://meli.la/2nHJYwW"
+        },
+        {
+            "nome": "Esmalte Em Gel Camada Única Real Love Linha Pro - 10ml Glitter 01",
+            "preco": "22.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_720648-MLA95313934785_102025-F.webp",
+            "link": "https://meli.la/2GPA5FA"
+        },
+        {
+            "nome": "Gel De Modelagem Para Unhas Sculping Gel 15ml - Real Love Cor GEL-15_4",
+            "preco": "20.16",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_781561-MLU71889289777_092023-F.webp",
+            "link": "https://meli.la/1JWfc2q"
+        },
+        {
+            "nome": "Magic Remover Unhas De Esmalte Gel Decoradas Acrigel",
+            "preco": "23.64",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_912640-MLB79239048059_092024-F.webp",
+            "link": "https://meli.la/1PjZ5So"
+        },
+        {
+            "nome": "Farmax Removedor Esmalte Unha Com Acetona Hidratante 500ml",
+            "preco": "25.88",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_711557-MLU72637276295_112023-F.webp",
+            "link": "https://meli.la/2C4xQyg"
+        },
+        {
+            "nome": "Kit 02un Removedor De Esmaltes 5cinco Lutex Ap Eco 500ml",
+            "preco": "76.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_976234-MLB43680860330_102020-F.webp",
+            "link": "https://meli.la/14DgXFi"
+        },
+        {
+            "nome": "Kit Esmalte Cacau Show Coleção Completa Impala 5 Cores",
+            "preco": "69.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_706109-MLB112861683410_072026-F.webp",
+            "link": "https://meli.la/1KpJ1B6"
+        },
+        {
+            "nome": "Kit Esmalte Impala Manicure Atacado Francesinha 5 Cores",
+            "preco": "32.89",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_690271-MLB103434595595_012026-F.webp",
+            "link": "https://meli.la/1LfjzVC"
+        },
+        {
+            "nome": "Kit 3 Esmalte Impala A Cor Da Sua Moda 7 Efeito Pó Cromado",
+            "preco": "26.59",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_726405-MLB110387908121_042026-F.webp",
+            "link": "https://meli.la/1DmEZ5y"
+        },
+        {
+            "nome": "Kit 4 Esmaltes Magnéticos Cat Eye Impala Disney Channel",
+            "preco": "39.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_739088-MLB112640999330_062026-F.webp",
+            "link": "https://meli.la/2d9GuEu"
+        },
+        {
+            "nome": "Kit Esmalte Impala Top Pop + Base + Verniz + Óleo Secante",
+            "preco": "28.89",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_907240-MLB95341433783_102025-F.webp",
+            "link": "https://meli.la/1JTBNZv"
+        },
+        {
+            "nome": "Kit C/ 3 Esmaltes Impala Atacado Cremoso Glitter Perolado 3 Cores",
+            "preco": "20.89",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_871523-MLA113972926275_062026-F.webp",
+            "link": "https://meli.la/2VXockg"
+        },
+        {
+            "nome": "Kit 4 Esmaltes Impala Francesinha Clássica Branquinhos",
+            "preco": "29.03",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_864398-MLB99150901879_112025-F.webp",
+            "link": "https://meli.la/2mzxrdM"
+        },
+        {
+            "nome": "Kit Esmalte Risque Atacado 5 Tons Vermelho Cremoso Metalico",
+            "preco": "30.93",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_642081-MLB111293525724_052026-F.webp",
+            "link": "https://meli.la/2PER8Lf"
+        },
+        {
+            "nome": "Risqué Kit Com 15 Esmaltes Novo Hipoalergênicos Atacado 8ml",
+            "preco": "68.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_981657-MLB95595621137_102025-F.webp",
+            "link": "https://meli.la/1UiZnT1"
+        },
+        {
+            "nome": "Kit 4 Novos Esmaltes Risqué Os Queridinhos Estão De Volta! Novas Cores",
+            "preco": "27.89",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_744464-MLA111084697328_052026-F.webp",
+            "link": "https://meli.la/1mVzaWN"
+        },
+        {
+            "nome": "Kit 4 Esmalte Risque Tratamento Verniz Secante Fortalecedora",
+            "preco": "29.89",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_615715-MLA92554322577_092025-F.webp",
+            "link": "https://meli.la/1fipCPV"
+        },
+        {
+            "nome": "Risqué Diamond Gel Meus Tons Preferidos + Top Coat",
+            "preco": "78.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_714989-MLU78902586176_092024-F.webp",
+            "link": "https://meli.la/2rgUYvn"
+        },
+        {
+            "nome": "Esmalte Colorama Coberturaintensificadora Cor 8ml - 2 Un",
+            "preco": "29.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_931685-MLB114060710713_072026-F.webp",
+            "link": "https://meli.la/14JjdDy"
+        },
+        {
+            "nome": "Esmalte Colorama Hello Kitty Nova Coleção - Kit Com 4 Cores",
+            "preco": "46.91",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_732958-MLB111968754350_062026-F.webp",
+            "link": "https://meli.la/1mznY1b"
+        },
+        {
+            "nome": "Kit Esmalte Colorama Leite De Coco Cremoso Branco - 3 Unid",
+            "preco": "27.05",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_991130-MLB92253910432_092025-F.webp",
+            "link": "https://meli.la/1oWrtg9"
+        },
+        {
+            "nome": "Kit 15 Esmaltes Sortidos Impala Coleção Cores Da Sua Moda Cor Colorido",
+            "preco": "63.04",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_878885-MLA92398411654_092025-F.webp",
+            "link": "https://meli.la/1FVjUhU"
+        },
+        {
+            "nome": "Kit 3 Esmalte Base Colorama Top Coat Roxinho Finalizador 8ml Cor 3 Bases",
+            "preco": "38.89",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_887864-MLA92218668874_092025-F.webp",
+            "link": "https://meli.la/2cRNk8c"
+        },
+        {
+            "nome": "Esmalte Dailus Kit 8 Cores Coleção Ultima Chamada Lançamento",
+            "preco": "66.83",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_877414-MLB111229636649_052026-F.webp",
+            "link": "https://meli.la/1PSeruY"
+        },
+        {
+            "nome": "Kit 2 Esmaltes Dailus Mala Extraviada E Cromado Silver Top",
+            "preco": "36.02",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_899996-MLB113473227693_062026-F.webp",
+            "link": "https://meli.la/1AzuZ6a"
+        },
+        {
+            "nome": "Kit 2 Top Coat Top Glass Efeito Vidro Gel 8ml Dailus",
+            "preco": "42.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_775433-MLB93554421206_102025-F.webp",
+            "link": "https://meli.la/2z2q4Pc"
+        },
+        {
+            "nome": "Esmalte 3 Dailus Coleção Queridinhos Milk Nails Tons Brancos",
+            "preco": "35.89",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_726051-MLB92243174394_092025-F.webp",
+            "link": "https://meli.la/1sbL8on"
+        },
+        {
+            "nome": "Esmalte Dailus Nude Kit Com 6 Esmaltes Em Tons Nude",
+            "preco": "48.54",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_822851-MLB97121020906_112025-F.webp",
+            "link": "https://meli.la/2JTeg8T"
+        },
+        {
+            "nome": "Dailus Top Coat Chrome Esmalte Efeito Pó Cromado Lançamento",
+            "preco": "48.89",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_831534-MLB113350065869_062026-F.webp",
+            "link": "https://meli.la/27GHdyM"
+        },
+        {
+            "nome": "Anita - Ferias De Inverno Kit 7 Esmaltes Nova Coleção",
+            "preco": "51.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_828898-MLB97007636054_112025-F.webp",
+            "link": "https://meli.la/18Rep2p"
+        },
+        {
+            "nome": "Kit 5 Esmaltes Anita Delicada Nude",
+            "preco": "41.20",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_963586-MLA109710304874_042026-F.webp",
+            "link": "https://meli.la/327T9ZK"
+        },
+        {
+            "nome": "Kit 3 Esmalte Anita Rosa Chiclete",
+            "preco": "31.12",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_663670-MLB113662555919_062026-F.webp",
+            "link": "https://meli.la/2HPPBwX"
+        },
+        {
+            "nome": "Kit 3 Esmalte Anita Malbec + Outono + Mediterrâneo",
+            "preco": "30.89",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_783470-MLB92240801290_092025-F.webp",
+            "link": "https://meli.la/2zzi3oT"
+        },
+        {
+            "nome": "Kit 6 Esmaltes Anita Coleção Capadócia",
+            "preco": "49.80",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_953234-MLB110562617087_042026-F.webp",
+            "link": "https://meli.la/1hkLQyr"
+        },
+        {
+            "nome": "Kit 3 Esmaltes Anita Coleção Despedida De Solteira Vermelho",
+            "preco": "30.50",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_825888-MLB109235100536_042026-F.webp",
+            "link": "https://meli.la/1R3G5Y5"
+        },
+        {
+            "nome": "Esmalte Anita Nova Coleção Minhas Memorias 4 Cores Perolado",
+            "preco": "38.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_843790-MLB109548263406_042026-F.webp",
+            "link": "https://meli.la/2oKUcUo"
+        },
+        {
+            "nome": "Kit Esmaltes Anita Furta Cor - Borboleta, Encantado E Luz",
+            "preco": "27.94",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_701444-MLA104895291087_012026-F.webp",
+            "link": "https://meli.la/148ceCY"
+        },
+        {
+            "nome": "Vult Fruit-tella Esmalte 5 Free 8ml - Blueberry",
+            "preco": "21.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_855526-MLA79496132890_102024-F.webp",
+            "link": "https://meli.la/2EZTVA7"
+        },
+        {
+            "nome": "Esmalte Perolado Vult Amour Ato De Carinho Efeito Gel 8ml",
+            "preco": "20.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_718854-MLA84556538190_052025-F.webp",
+            "link": "https://meli.la/2e52MEv"
+        },
+        {
+            "nome": "Vult 3 Em 1 - Base 8ml",
+            "preco": "14.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_876178-MLB107186126467_022026-F.webp",
+            "link": "https://meli.la/21rNNri"
+        },
+        {
+            "nome": "Dosador de Acetona com Porta Algodão Santa Clara Transparente Ideal Manicure Unhas",
+            "preco": "20.97",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_881098-MLU73129168970_122023-F.webp",
+            "link": "https://meli.la/1sHc5Md"
+        }
+    ],
+    "skincare": [
+        {
+            "nome": "Garnier, Gel Creme Hidratante Facial Preenchedor Toque Seco, com Ácido Hialurônico, Niacinamida e Aloe Vera, Controla a Oleosidade e Uniformiza a Pele, 85g",
+            "preco": "33.41",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_763003-MLA110264577538_052026-F.webp",
+            "link": "https://meli.la/24USCgw"
+        },
+        {
+            "nome": "Argila Branca 500g + Óleo De Rosa Mosqueta 30ml - Clareador",
+            "preco": "19.49",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_888546-MLB106268083217_012026-F.webp",
+            "link": "https://meli.la/1CMP6x8"
+        },
+        {
+            "nome": "Kit Hidratante Limpeza Skincare Rosa Mosqueta Dermachem 4un",
+            "preco": "34.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_696866-MLB106859241181_022026-F.webp",
+            "link": "https://meli.la/33bqtMc"
+        },
+        {
+            "nome": "Kits Dermache Skincare Anti Oleosidade Protetor Solar Facial",
+            "preco": "62.05",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_790422-MLA108720907700_032026-F.webp",
+            "link": "https://meli.la/2Pf7bcz"
+        },
+        {
+            "nome": "Gel de Limpeza Facial 3 em 1 Antiacne para Pele Oleosa, Controla Oleosidade e Reduz Marcas com Ácido Salicílico Uniform & Matte Garnier 120g",
+            "preco": "28.50",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_730794-MLA79958436511_102024-F.webp",
+            "link": "https://meli.la/1VgUdgS"
+        },
+        {
+            "nome": "Principia Gel De Limpeza Facial Gl-02 200g",
+            "preco": "39.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_624920-MLB94688772809_102025-F.webp",
+            "link": "https://meli.la/1ZVsUia"
+        },
+        {
+            "nome": "Principia Sérum Vitamina C-10",
+            "preco": "33.59",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_614742-MLA98385730409_112025-F.webp",
+            "link": "https://meli.la/2ARjjHY"
+        },
+        {
+            "nome": "Principia Sérum Mix-01",
+            "preco": "41.95",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_661969-MLA96768245047_102025-F.webp",
+            "link": "https://meli.la/33NScRq"
+        },
+        {
+            "nome": "Principia Emulsão Corporal Com 10% de Ácido Lático Ec-01 200ml",
+            "preco": "54.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_713219-MLA96871297876_112025-F.webp",
+            "link": "https://meli.la/2pkmZ8f"
+        },
+        {
+            "nome": "Principia Gel De Limpeza Facial Gl-01 200g",
+            "preco": "44.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_647861-MLB94689390161_102025-F.webp",
+            "link": "https://meli.la/1BiD2pr"
+        },
+        {
+            "nome": "Principia Gel De Limpeza Facial Gl-03 350g",
+            "preco": "54.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_816513-MLB93838143730_102025-F.webp",
+            "link": "https://meli.la/1jnbmVS"
+        },
+        {
+            "nome": "Gel De Limpeza Creamy Skincare Antioleosidade 200ml",
+            "preco": "63.47",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_902459-MLB89082641281_072025-F.webp",
+            "link": "https://meli.la/1X92bZH"
+        },
+        {
+            "nome": "Emulsão De Limpeza Creamy Skincare Peles Secas 200ml",
+            "preco": "62.09",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_918516-MLB89655380554_082025-F.webp",
+            "link": "https://meli.la/24MzLGA"
+        },
+        {
+            "nome": "Creamy Skincare Ceramide Skin Repair 40g | Contém Ceramidas, Melhora A Pele Fragilizada, Hidratação Profunda E Intensa, Controla Pele Ressecada | Todos Os Tipos De Pele, Diurno E Noturno",
+            "preco": "64.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_815910-MLA109107947199_032026-F.webp",
+            "link": "https://meli.la/24PyxV7"
+        },
+        {
+            "nome": "Creamy Skincare Eye Cream 15g | Ação Anti-Idade, Peles com Manchas, Atenua Coloração Escura das Olheiras, Sem Fragrância | Uso Diurno e Noturno, Todos os Tipos de Pele",
+            "preco": "127.80",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_705618-MLU72700364357_112023-F.webp",
+            "link": "https://meli.la/33dffri"
+        },
+        {
+            "nome": "Creamy Skincare Gel-Creme Retinol 30g | Melhora Rugas Profundas, Uniformiza a Textura e o Tom da Pele, Normaliza a Espessura da Pele | Uso Noturno, Todos os Tipos de Pele",
+            "preco": "84.24",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_869496-MLA81650617433_122024-F.webp",
+            "link": "https://meli.la/1aAwZoZ"
+        },
+        {
+            "nome": "Creamy Skincare Ácido Mandélico 30g Reduz a Oleosidade Combate a Formação de Acne e Uniformiza Todos os Tipos de Pele",
+            "preco": "78.19",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_665472-MLU75359066475_032024-F.webp",
+            "link": "https://meli.la/2KyVJj3"
+        },
+        {
+            "nome": "Kit Creamy Ácido Mandélico + Ácido Glicólico Tratamento Noturno Renova E Uniformiza A Pele",
+            "preco": "158.50",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_914936-MLB97080611526_112025-F.webp",
+            "link": "https://meli.la/1mP93va"
+        },
+        {
+            "nome": "Sérum Antimanchas com Melasyl e Niacinamida para Todos os Tipos de Pele que Corrige Manchas Persistentes, Unifica o Tom e Ilumina, sem Perfume, Mela B3 La Roche‑Posay 30ml",
+            "preco": "261.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_687107-MLA112547775190_062026-F.webp",
+            "link": "https://meli.la/1kBpTP2"
+        },
+        {
+            "nome": "Sérum Antimanchas com Melasyl e Niacinamida para Todos os Tipos de Pele que Corrige Manchas Persistentes, Unifica o Tom e Ilumina, sem Perfume, Mela B3 La Roche‑Posay 15ml",
+            "preco": "144.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_698264-MLA113718709309_062026-F.webp",
+            "link": "https://meli.la/2NRKosE"
+        }
+    ],
+    "hidratantes": [
+        {
+            "nome": "Garnier, Gel Creme Hidratante Facial Preenchedor Toque Seco, com Ácido Hialurônico, Niacinamida e Aloe Vera, Controla a Oleosidade e Uniformiza a Pele, 85g",
+            "preco": "33.41",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_763003-MLA110264577538_052026-F.webp",
+            "link": "https://meli.la/24USCgw"
+        },
+        {
+            "nome": "Hidratante Eudora Instance Baunilha Glow Karité Rosa 400ml Karité",
+            "preco": "37.00",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_977504-MLA112761698921_062026-F.webp",
+            "link": "https://meli.la/1nVFBF8"
+        },
+        {
+            "nome": "Eudora Diva Absoluta Loção Hidratante Corporal 200ml",
+            "preco": "29.30",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_903630-MLU74970247316_032024-F.webp",
+            "link": "https://meli.la/1QNWnev"
+        },
+        {
+            "nome": "Eudora Instance Rosa Absoluta Creme Hidratante Corpo 400ml",
+            "preco": "44.41",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_928188-MLA82564315570_032025-F.webp",
+            "link": "https://meli.la/24ioXLk"
+        },
+        {
+            "nome": "Creme Hidratante Desodorante Corporal Eudora Rouge 250g",
+            "preco": "87.89",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_602748-MLA84838921781_052025-F.webp",
+            "link": "https://meli.la/1iBJnEj"
+        },
+        {
+            "nome": "Eudora - Creme Hidratante Corporal Velvet Sensual",
+            "preco": "53.85",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_990824-MLU78535017616_082024-F.webp",
+            "link": "https://meli.la/1FgUqud"
+        },
+        {
+            "nome": "Hidratante Cuide-se Bem Deleite 400ml (emb. Nova)-oboticário",
+            "preco": "61.54",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_809082-MLB89170770976_082025-F.webp",
+            "link": "https://meli.la/2LajVEW"
+        },
+        {
+            "nome": "Eudora Instance Lima Rosa Loção Corporal 400ml",
+            "preco": "34.49",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_729432-MLU75125276044_032024-F.webp",
+            "link": "https://meli.la/2dZhsBi"
+        },
+        {
+            "nome": "Hidratante Corporal Eudora Instance Baunilha Intensa de 400ml",
+            "preco": "46.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_720077-MLA108648524995_032026-F.webp",
+            "link": "https://meli.la/19iJrTK"
+        },
+        {
+            "nome": "Hidratante Corporal Eudora Instance Algodão E Jasmim 400ml",
+            "preco": "54.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_888277-MLU74421620830_022024-F.webp",
+            "link": "https://meli.la/2rAWyxV"
+        },
+        {
+            "nome": "Hidratante Corporal Eudora Instance Morango Irresistível",
+            "preco": "79.50",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_899642-MLA95810926155_102025-F.webp",
+            "link": "https://meli.la/2gP38fw"
+        },
+        {
+            "nome": "Loção Iluminadora Corporal Eudora Aurien Gold 200ml - Eudora",
+            "preco": "64.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_721812-MLU73428079497_122023-F.webp",
+            "link": "https://meli.la/14TZU2q"
+        },
+        {
+            "nome": "Loção Hidratante Corporal Kiss Me Cabernet, 100ml - Eudora",
+            "preco": "49.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_934354-MLA84832795097_052025-F.webp",
+            "link": "https://meli.la/1hDA3wf"
+        },
+        {
+            "nome": "Eudora Instance Creme Hidratante Corporal Baunilha Glow 400 ml",
+            "preco": "45.29",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_951421-MLA80854149765_112024-F.webp",
+            "link": "https://meli.la/1HsNFbN"
+        },
+        {
+            "nome": "Creme Para Corpo Eudora Instance Macaron de Framboesa 400ml",
+            "preco": "44.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_621989-MLU78535017150_082024-F.webp",
+            "link": "https://meli.la/1Rr8Rt1"
+        },
+        {
+            "nome": "Hidratante Indulgent Cream 250g. Fragrância De Eudora Edp. Tipo de embalagem Vidro Fragrância Eudora EDP",
+            "preco": "86.17",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_799331-MLU72566439634_112023-F.webp",
+            "link": "https://meli.la/2HgYzrC"
+        },
+        {
+            "nome": "Creme Hidratante Acetinado Eudora Magnific para o Corpo 200g",
+            "preco": "42.21",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_961627-MLA92117010816_092025-F.webp",
+            "link": "https://meli.la/1ivz1Ru"
+        },
+        {
+            "nome": "Creme Hidratante Eudora Velvet Sensual 250g",
+            "preco": "78.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_673051-MLB110127728721_042026-F.webp",
+            "link": "https://meli.la/2upJtVz"
+        },
+        {
+            "nome": "Eudora Instance Manteiga Hidratante Corporal Karité 180ml",
+            "preco": "31.80",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_709873-MLA84857650053_052025-F.webp",
+            "link": "https://meli.la/2VfW11d"
+        },
+        {
+            "nome": "Creme Hidratante Tâmaras Egípcias 400 Ml - La Piel Eudora Tamaras Egipcias",
+            "preco": "72.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_816972-MLA107907383217_032026-F.webp",
+            "link": "https://meli.la/1TfseGT"
+        },
+        {
+            "nome": "Loção Hidratante Desodorante Corporal Niina Secrets 200ml",
+            "preco": "27.96",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_625361-MLA84557295860_052025-F.webp",
+            "link": "https://meli.la/1a4wuWo"
+        },
+        {
+            "nome": "Eudora Diva Esplêndida Loção Hidratante Corporal 200ml",
+            "preco": "38.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_836413-MLB49408946574_032022-F.webp",
+            "link": "https://meli.la/2HxwvNG"
+        },
+        {
+            "nome": "Loção Hidratante Desodorante Corporal Imensi Eudora 200 mL, com Fragrância Tradicional",
+            "preco": "39.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_890197-MLA81189130986_122024-F.webp",
+            "link": "https://meli.la/1tUTe7B"
+        },
+        {
+            "nome": "Eudora Velvet Authentic Locao Des Hidratante Corporal 150ml",
+            "preco": "34.99",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_960641-MLA84539757028_052025-F.webp",
+            "link": "https://meli.la/1CxFSfg"
+        },
+        {
+            "nome": "Eudora Kiss Me Delicious Loção Corporal 100ml",
+            "preco": "42.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_799915-MLU75967200542_052024-F.webp",
+            "link": "https://meli.la/1iF8u9a"
+        },
+        {
+            "nome": "Loção Hidratante Desodorante Corporal Diva Esplêndida Eudora 200ml",
+            "preco": "37.45",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_956175-MLA84833670667_052025-F.webp",
+            "link": "https://meli.la/16nkK7H"
+        },
+        {
+            "nome": "Kit Céu De Algodão Tha Beauty Body Splash + Loção Hidratante",
+            "preco": "140.15",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_845565-MLA108873694865_032026-F.webp",
+            "link": "https://www.mercadolivre.com.br/p/MLB66746148?pdp_filters=item_id:MLB6471044208#origin=share&sid=share&wid=MLB6471044208&action=whatsapp"
+        },
+        {
+            "nome": "Noite Estrelada: Body Splash + Loção - Tha Beauty",
+            "preco": "135.90",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_704957-MLA92385042884_092025-F.webp",
+            "link": "https://meli.la/2931v8E"
+        },
+        {
+            "nome": "Kit Aurora Tha Beauty Body Splash + Loção Hidratante Brilho",
+            "preco": "140.15",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_765229-MLA109035110025_032026-F.webp",
+            "link": "https://www.mercadolivre.com.br/p/MLB66841945?pdp_filters=item_id:MLB6482649346#origin=share&sid=share&wid=MLB6482649346&action=whatsapp"
+        },
+        {
+            "nome": "Kit Passion Tha Beauty Body Splash + Loção Hidratante",
+            "preco": "140.15",
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_640767-MLA109377693671_032026-F.webp",
+            "link": "https://www.mercadolivre.com.br/p/MLB67096642?pdp_filters=item_id:MLB6526577616#origin=share&sid=share&wid=MLB6526577616&action=whatsapp"
+        }
+    ]
+}

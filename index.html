@@ -1,0 +1,126 @@
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Achados Imperdíveis | Ofertas do Mercado Livre</title>
+
+    <meta name="description" content="Encontre as melhores ofertas do Mercado Livre organizadas por categoria.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Poppins:wght@500&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="icon" href="favicon.ico">
+</head>
+
+<body>
+
+<header>
+
+    <h1>Garimpo dos Bons</h1>
+
+    <p>Os melhores preços do Mercado Livre e outros</p>
+
+</header>
+
+<section class="pesquisa-home">
+
+    <input
+        type="text"
+        id="pesquisaCategoria"
+        placeholder="🔍 Pesquise uma categoria...">
+
+</section>
+
+<section class="contador">
+
+    <span>📂 10 Categorias disponíveis</span>
+
+</section>
+
+<main class="categorias-grid">
+
+    <a href="categoria.html?cat=automotivo" class="categoria-card">
+        🚗 Automotivo
+    </a>
+
+    <a href="categoria.html?cat=ferramentas" class="categoria-card">
+        🔧 Ferramentas
+    </a>
+
+    <a href="categoria.html?cat=casa" class="categoria-card">
+        🏠 Casa
+    </a>
+
+    <a href="categoria.html?cat=sapatos" class="categoria-card">
+        👟 Sapatos
+    </a>
+
+    <a href="categoria.html?cat=perfumes" class="categoria-card">
+        🌸 Perfumes
+    </a>
+
+    <a href="categoria.html?cat=maquiagens" class="categoria-card">
+        💄 Maquiagens
+    </a>
+
+    <a href="categoria.html?cat=cabelo" class="categoria-card">
+        💇 Cabelo
+    </a>
+
+    <a href="categoria.html?cat=unha" class="categoria-card">
+        💅 Unha
+    </a>
+
+    <a href="categoria.html?cat=skincare" class="categoria-card">
+        🧴 Skincare
+    </a>
+
+    <a href="categoria.html?cat=hidratantes" class="categoria-card">
+        🧴 Hidratantes
+    </a>
+
+</main>
+
+<footer>
+
+    <p>© 2026 Achados Imperdíveis</p>
+
+    <p>
+        Como afiliado do Mercado Livre, podemos receber comissão pelas compras realizadas através dos links deste site.
+    </p>
+
+</footer>
+
+<script>
+
+const pesquisa=document.getElementById("pesquisaCategoria");
+
+pesquisa.addEventListener("keyup",()=>{
+
+    const texto=pesquisa.value.toLowerCase();
+
+    document.querySelectorAll(".categoria-card").forEach(card=>{
+
+        if(card.textContent.toLowerCase().includes(texto)){
+            card.style.display="flex";
+        }else{
+            card.style.display="none";
+        }
+
+    });
+
+});
+
+</script>
+
+</body>
+
+</html>
+```
