@@ -8,7 +8,8 @@ const categorias = [
     "cabelo",
     "unha",
     "skincare",
-    "hidratantes"
+    "hidratantes",
+    "roupas"
 ];
 
 let produtos = {};
